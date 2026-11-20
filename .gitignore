@@ -1,0 +1,13 @@
+.env
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+runtime/
+*.sqlite*
+*.log
+web/node_modules/
+web/.next/
+web/tsconfig.tsbuildinfo
+.pages-dist/
+.pages-state/

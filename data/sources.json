@@ -1,0 +1,216 @@
+[
+  {
+    "school": "中央音乐学院",
+    "url": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+    "city": "北京",
+    "province": "北京",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "浙江音乐学院",
+    "url": "https://www.zjcm.edu.cn/zyxw/tzgg/",
+    "city": "杭州",
+    "province": "浙江",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "四川音乐学院",
+    "url": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
+    "city": "成都",
+    "province": "四川",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "天津音乐学院",
+    "url": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+    "city": "天津",
+    "province": "天津",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "includes": "天津音乐学院附属中等音乐学校"
+  },
+  {
+    "school": "香港中文大学（深圳）音乐学院",
+    "url": "https://music.cuhk.edu.cn/taxonomy/term/146",
+    "city": "深圳",
+    "province": "广东",
+    "school_type": "大学音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "adapter": "faculty_directory"
+  },
+  {
+    "school": "广西艺术学院",
+    "url": "https://rsc.gxau.edu.cn/",
+    "city": "南宁",
+    "province": "广西",
+    "school_type": "艺术学院",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "江西师范大学",
+    "url": "https://rsc.jxnu.edu.cn/",
+    "city": "南昌",
+    "province": "江西",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "hosts": [
+      "www.jxnu.edu.cn"
+    ]
+  },
+  {
+    "school": "山东师范大学",
+    "url": "https://rsc.sdnu.edu.cn/",
+    "city": "济南",
+    "province": "山东",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "陕西师范大学",
+    "url": "https://rsc.snnu.edu.cn/",
+    "city": "西安",
+    "province": "陕西",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "安徽师范大学",
+    "url": "https://rsc.ahnu.edu.cn/rczp.htm",
+    "city": "芜湖",
+    "province": "安徽",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "华中师范大学",
+    "url": "https://hr.ccnu.edu.cn/rczp.htm",
+    "city": "武汉",
+    "province": "湖北",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "福建师范大学",
+    "url": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+    "city": "福州",
+    "province": "福建",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "hosts": [
+      "rst.fujian.gov.cn"
+    ]
+  },
+  {
+    "school": "南京艺术学院",
+    "url": "https://rsc.nua.edu.cn/",
+    "city": "南京",
+    "province": "江苏",
+    "school_type": "艺术学院",
+    "stage": "高等教育",
+    "kind": "学校官网"
+  },
+  {
+    "school": "杭州师范大学",
+    "url": "https://rsc.hznu.edu.cn/rczp/",
+    "city": "杭州",
+    "province": "浙江",
+    "school_type": "师范大学",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "hosts": [
+      "hrss.hangzhou.gov.cn"
+    ]
+  },
+  {
+    "school": "上海音乐学院",
+    "url": "https://job.shcmusic.edu.cn/",
+    "city": "上海",
+    "province": "上海",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "招聘系统返回 403"
+  },
+  {
+    "school": "星海音乐学院",
+    "url": "https://www.xhcom.edu.cn/",
+    "city": "广州",
+    "province": "广东",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "官网连接超时"
+  },
+  {
+    "school": "武汉音乐学院",
+    "url": "https://www.whcm.edu.cn/",
+    "city": "武汉",
+    "province": "湖北",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "官网连接超时"
+  },
+  {
+    "school": "中国音乐学院",
+    "url": "https://www.ccmusic.edu.cn/xxgk/xxgg/",
+    "city": "北京",
+    "province": "北京",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "robots.txt 禁止自动采集"
+  },
+  {
+    "school": "西安音乐学院",
+    "url": "https://www.xacom.edu.cn/1843/list.htm",
+    "city": "西安",
+    "province": "陕西",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "robots.txt 返回 403"
+  },
+  {
+    "school": "沈阳音乐学院",
+    "url": "https://www.sycm.edu.cn/info.aspx?DWid=54",
+    "city": "沈阳",
+    "province": "辽宁",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "robots.txt 返回 403"
+  },
+  {
+    "school": "哈尔滨音乐学院",
+    "url": "https://www.hrbcm.edu.cn/",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "school_type": "音乐学院",
+    "stage": "高等教育",
+    "kind": "学校官网",
+    "enabled": false,
+    "setup_note": "官网连接超时"
+  }
+]

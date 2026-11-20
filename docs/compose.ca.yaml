@@ -1,0 +1,19 @@
+# Optional: use a deployer-supplied PEM bundle with the normal public CA roots
+# and the trusted outbound proxy CA. Supply public certificates only.
+services:
+  api:
+    build:
+      secrets: [radar_ca]
+  worker:
+    environment:
+      - HTTP_PROXY
+      - HTTPS_PROXY
+      - NO_PROXY=localhost,127.0.0.1,api,web,db
+    build:
+      secrets: [radar_ca]
+  web:
+    build:
+      secrets: [radar_ca]
+secrets:
+  radar_ca:
+    file: ${RADAR_CA_FILE:?provide a public CA bundle}

@@ -1,0 +1,2877 @@
+{
+  "captured": "2026-11-20T23:17:43+08:00",
+  "sources": [
+    {
+      "url": "https://job.shcmusic.edu.cn/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.xhcom.edu.cn/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.whcm.edu.cn/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.ccmusic.edu.cn/xxgk/xxgg/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.xacom.edu.cn/1843/list.htm",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.sycm.edu.cn/info.aspx?DWid=54",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.hrbcm.edu.cn/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "attempted": "2026-11-20T23:15:09+08:00",
+      "succeeded": "2026-11-20T23:13:17+08:00",
+      "sample": "https://www.ccom.edu.cn/info/5301/234951.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 7,
+        "read": 0,
+        "skipped": 7,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://www.zjcm.edu.cn/zyxw/tzgg/",
+      "attempted": "2026-11-20T23:15:09+08:00",
+      "succeeded": "2026-11-20T23:15:18+08:00",
+      "sample": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "issue": null,
+      "counts": {
+        "candidates": 1,
+        "read": 0,
+        "skipped": 1,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.nua.edu.cn/",
+      "attempted": "2026-11-20T23:15:20+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "南京艺术学院高层次人才引进和管理规定（修订）：正文不完整或需要访问验证",
+      "counts": {
+        "candidates": 1,
+        "read": 0,
+        "skipped": 1,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.hznu.edu.cn/rczp/",
+      "attempted": "2026-11-20T23:15:12+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "杭州师范大学2024年公开招聘心理咨询师公告：robots.txt 无法核实（HTTP 503），暂停访问；杭州师范大学2024年下半年公开招聘教学科研人员公告：robots.txt 无法核实（HTTP 503），暂停访问；杭州师范大学2024年公开招聘专业技术人员公告：robots.txt 无法核实（HTTP 503），暂停访问；杭州师范大学公开选聘工学院院长公告：连接失败：ReadTimeout",
+      "counts": {
+        "candidates": 9,
+        "read": 0,
+        "skipped": 9,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "attempted": "2026-11-20T23:15:18+08:00",
+      "succeeded": "2026-11-20T23:15:22+08:00",
+      "sample": "https://rsc.tjcm.edu.cn/info/1266/1492.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 10,
+        "read": 0,
+        "skipped": 10,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "attempted": "2026-11-20T23:15:25+08:00",
+      "succeeded": "2026-11-20T23:09:16+08:00",
+      "sample": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
+      "issue": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc：该格式尚需人工读取；附件1：福建师大附中招聘报名二维码.doc：该格式尚需人工读取；附件2：福建师大附中招聘登记表.doc：该格式尚需人工读取；福建师范大学离退休工作办公室2026年招聘校内退休人员方案：正文不完整或需要访问验证",
+      "counts": {
+        "candidates": 4,
+        "read": 0,
+        "skipped": 4,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/",
+      "attempted": "2026-11-20T23:15:09+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "May 27 山东师范大学2026年公开招聘人员公告：正文不完整或需要访问验证；Apr 22 山东师范大学附属小学2026年第二批公开招聘人员公告：正文不完整或需要访问验证；Apr 22 山东师范大学第二附属中学2026年第二批公开招聘人员公告：正文不完整或需要访问验证",
+      "counts": {
+        "candidates": 3,
+        "read": 0,
+        "skipped": 3,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/rczp.htm",
+      "attempted": "2026-11-20T23:15:18+08:00",
+      "succeeded": "2026-11-20T23:09:10+08:00",
+      "sample": "https://hr.ccnu.edu.cn/info/1031/12196.htm",
+      "issue": "报名表.docx：File is not a zip file",
+      "counts": {
+        "candidates": 5,
+        "read": 0,
+        "skipped": 5,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/",
+      "attempted": "2026-11-20T23:15:22+08:00",
+      "succeeded": "2026-11-20T23:15:26+08:00",
+      "sample": "https://rsc.snnu.edu.cn/info/1070/11708.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 4,
+        "read": 0,
+        "skipped": 4,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "attempted": "2026-11-20T23:15:13+08:00",
+      "succeeded": "2026-11-20T23:15:20+08:00",
+      "sample": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "issue": null,
+      "counts": {
+        "candidates": 1,
+        "read": 0,
+        "skipped": 1,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "attempted": "2026-11-20T23:15:32+08:00",
+      "succeeded": "2026-11-20T23:13:45+08:00",
+      "sample": "https://rsc.ahnu.edu.cn/info/1039/1077.htm",
+      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取；附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
+      "counts": {
+        "candidates": 9,
+        "read": 0,
+        "skipped": 9,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
+      "attempted": "2026-11-20T23:15:26+08:00",
+      "succeeded": "2026-11-20T23:08:21+08:00",
+      "sample": "https://www.sccm.edu.cn/dz_dwjsgzb/show-138.html",
+      "issue": "附件1：四川音乐学院2026年招聘第二批编外助学助管员岗位和条件要求一览表.xlsx：工作表超出大小限制",
+      "counts": {
+        "candidates": 2,
+        "read": 0,
+        "skipped": 2,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/",
+      "attempted": "2026-11-20T23:15:28+08:00",
+      "succeeded": "2026-11-20T23:10:15+08:00",
+      "sample": "https://www.jxnu.edu.cn/2026/0117/c13127a289644/page.htm",
+      "issue": "附件4：学科专业目录汇编.pdf：文件超出采集大小上限；附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc：该格式尚需人工读取；附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc：该格式尚需人工读取；附件4：学科专业目录汇编.pdf：文件超出采集大小上限；江西师范大学流动化学与工程研究院高层次人才招聘公告：正文不完整或需要访问验证；附件1：招聘岗位及条件.doc：该格式尚需人工读取；附件2：学科专业目录汇编.pdf：PDF 页数过多",
+      "counts": {
+        "candidates": 5,
+        "read": 0,
+        "skipped": 5,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/",
+      "attempted": "2026-11-20T23:15:30+08:00",
+      "succeeded": "2026-11-20T23:15:47+08:00",
+      "sample": "https://rsc.gxau.edu.cn/rcxq/content_281013",
+      "issue": "202205171844430960.doc：该格式尚需人工读取",
+      "counts": {
+        "candidates": 12,
+        "read": 2,
+        "skipped": 10,
+        "new": 3,
+        "errors": 1
+      }
+    }
+  ],
+  "notices": [
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/269111.htm",
+      "title": "中央音乐学院校园管理处岗位招聘公告",
+      "checked": "2026-11-20T23:08:15+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/263511.htm",
+      "title": "中央音乐学院2026年度招聘公告",
+      "checked": "2026-11-20T23:08:22+08:00",
+      "issue": "中央音乐学院2026年度岗位招聘诚信承诺书.docx：File is not a zip file；中央音乐学院2026年度教学岗位应聘信息表.xlsx：File is not a zip file；中央音乐学院2026年度科研岗应聘信息表.xlsx：File is not a zip file；中央音乐学院2026年度专职辅导员岗位应聘信息表.xlsx：File is not a zip file",
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15405832",
+            "type": "docx",
+            "name": "中央音乐学院2026年度岗位招聘诚信承诺书.docx",
+            "error": "File is not a zip file"
+          },
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15405831",
+            "type": "xlsx",
+            "name": "中央音乐学院2026年度教学岗位应聘信息表.xlsx",
+            "error": "File is not a zip file"
+          },
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15405833",
+            "type": "xlsx",
+            "name": "中央音乐学院2026年度科研岗应聘信息表.xlsx",
+            "error": "File is not a zip file"
+          },
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15405834",
+            "type": "xlsx",
+            "name": "中央音乐学院2026年度专职辅导员岗位应聘信息表.xlsx",
+            "error": "File is not a zip file"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/257631.htm",
+      "title": "中央音乐学院2025年度钢琴调律与修复技师岗位招聘公告",
+      "checked": "2026-11-20T23:08:24+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "title": "中央音乐学院2025年度招聘公告",
+      "checked": "2026-11-20T23:08:30+08:00",
+      "issue": "附件-中央音乐学院2025年度岗位招聘诚信承诺书.docx：File is not a zip file；中央音乐学院2025年度非表演专业教学及科研岗应聘信息表.xlsx：File is not a zip file；中央音乐学院2025年度表演专业教学岗应聘信息表.xlsx：File is not a zip file",
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15389037",
+            "type": "docx",
+            "name": "附件-中央音乐学院2025年度岗位招聘诚信承诺书.docx",
+            "error": "File is not a zip file"
+          },
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15389038",
+            "type": "xlsx",
+            "name": "中央音乐学院2025年度非表演专业教学及科研岗应聘信息表.xlsx",
+            "error": "File is not a zip file"
+          },
+          {
+            "url": "https://www.ccom.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1820018741&wbfileid=15389039",
+            "type": "xlsx",
+            "name": "中央音乐学院2025年度表演专业教学岗应聘信息表.xlsx",
+            "error": "File is not a zip file"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/236071.htm",
+      "title": "音乐人工智能与音乐信息科技系电子音乐作曲专业教师岗位招聘公告",
+      "checked": "2026-11-20T23:08:32+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "title": "浙江音乐学院关于开展2026年下半年特殊专业技术岗位公开招聘工作的通知",
+      "checked": "2026-11-20T23:08:38+08:00",
+      "issue": null,
+      "source": "https://www.zjcm.edu.cn/zyxw/tzgg/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.zjcm.edu.cn/attachment/20260918/074ce5417a7f589b01751126343d81fb.pdf?n=2026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%89%B9%E6%AE%8A%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92",
+            "type": "pdf",
+            "name": "浙江音乐学院2026年下半年特殊专业技术岗位公开招聘计划.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://www.sccm.edu.cn/dz_dwjsgzb/show-138.html",
+      "title": "四川音乐学院2026年下半年公开招聘工作人员公告",
+      "checked": "2026-11-20T23:08:17+08:00",
+      "issue": null,
+      "source": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.sccm.edu.cn/upload/202611/19/202611191818549496.xlsx",
+            "type": "xlsx",
+            "name": "附件1：岗位条件一览表.xlsx"
+          },
+          {
+            "url": "https://www.sccm.edu.cn/upload/202611/19/202611191708047110.docx",
+            "type": "docx",
+            "name": "附件2：报考指南.docx"
+          },
+          {
+            "url": "https://www.sccm.edu.cn/upload/202611/19/202611191708052019.docx",
+            "type": "docx",
+            "name": "附件3：四川音乐学院附属中等艺术学校简介.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://www.sccm.edu.cn/dz_dwjsgzb/show-123.html",
+      "title": "四川音乐学院2026年招聘第二批编外助学助管员公告",
+      "checked": "2026-11-20T23:08:21+08:00",
+      "issue": "附件1：四川音乐学院2026年招聘第二批编外助学助管员岗位和条件要求一览表.xlsx：工作表超出大小限制",
+      "source": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.sccm.edu.cn/upload/202607/14/202607141735162693.xlsx",
+            "type": "xlsx",
+            "name": "附件1：四川音乐学院2026年招聘第二批编外助学助管员岗位和条件要求一览表.xlsx",
+            "error": "工作表超出大小限制"
+          },
+          {
+            "url": "https://www.sccm.edu.cn/upload/202607/14/202607141735167537.docx",
+            "type": "docx",
+            "name": "附件2：四川音乐学院2026年招聘第二批编外助学助管员报名表及承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1600.htm",
+      "title": "天津音乐学院附属中等音乐学校2026年第一批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:08:19+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3960157",
+            "type": "pdf",
+            "name": "天津音乐学院附属中等音乐学校2026年第一批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1599.htm",
+      "title": "天津音乐学院2026年第二批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:08:26+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3960156",
+            "type": "pdf",
+            "name": "天津音乐学院2026年第二批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2026/art_68b057fefa714979b93546d1cdea64a3.html",
+      "title": "杭州师范大学2026年上半年公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:09:21+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1597.htm",
+      "title": "天津音乐学院2026年第一批公开招聘博士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:08:29+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3959970",
+            "type": "pdf",
+            "name": "天津音乐学院2026年第一批公开招聘博士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1560.htm",
+      "title": "天津音乐学院2025年第四批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:08:32+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3956567",
+            "type": "pdf",
+            "name": "天津音乐学院2025年第四批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1559.htm",
+      "title": "天津音乐学院2025年第三批公开招聘博士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:08:35+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3956574",
+            "type": "pdf",
+            "name": "天津音乐学院2025年第三批公开招聘博士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "title": "教职岗位 · 香港中文大学（深圳）音乐学院",
+      "checked": "2026-11-20T23:08:31+08:00",
+      "issue": null,
+      "source": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_315740",
+      "title": "广西艺术学院2026年公开招聘人才公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:08:43+08:00",
+      "issue": null,
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2026/05/13/附件1：广西艺术学院2026年公开招聘人才岗位信息表.pdf",
+            "type": "pdf",
+            "name": "附件1：广西艺术学院2026年公开招聘人才岗位信息表.pdf"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2026/05/13/附件2：广西艺术学院公开招聘人才岗位申请表(2).docx",
+            "type": "docx",
+            "name": "附件2：广西艺术学院公开招聘人才岗位申请表(2).docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2026/05/13/附件3：广西艺术学院2026年公开招聘人才情况一览表.docx",
+            "type": "docx",
+            "name": "附件3：广西艺术学院2026年公开招聘人才情况一览表.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_313679",
+      "title": "广西艺术学院2025年度公开招聘外籍青年人才公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:08:49+08:00",
+      "issue": null,
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2025/12/12/附件1：广西艺术学院2025年度公开招聘外籍专任教师岗位信息表.xlsx",
+            "type": "xlsx",
+            "name": "附件1：广西艺术学院2025年度公开招聘外籍专任教师岗位信息表.xlsx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2025/12/12/附件2：广西艺术学院2025年度公开招聘外籍教师岗位申请表.docx",
+            "type": "docx",
+            "name": "附件2：广西艺术学院2025年度公开招聘外籍教师岗位申请表.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2025/12/12/附件3：广西艺术学院2025年度公开招聘外籍专任教师应聘人员情况一览表.xls",
+            "type": "xls",
+            "name": "附件3：广西艺术学院2025年度公开招聘外籍专任教师应聘人员情况一览表.xls"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_311269",
+      "title": "广西艺术学院2025年公开招聘博士公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:08:52+08:00",
+      "issue": "附件1：广西艺术学院2025年公开招聘博士人员岗位信息表(1).doc：该格式尚需人工读取；附件2：广西艺术学院公开招聘博士人员岗位申请表.doc：该格式尚需人工读取；附件3：广西艺术学院2025年公开招聘博士人员情况一览表.doc：该格式尚需人工读取",
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2025/06/20/附件1：广西艺术学院2025年公开招聘博士人员岗位信息表(1).doc",
+            "type": "doc",
+            "name": "附件1：广西艺术学院2025年公开招聘博士人员岗位信息表(1).doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2025/06/20/附件2：广西艺术学院公开招聘博士人员岗位申请表.doc",
+            "type": "doc",
+            "name": "附件2：广西艺术学院公开招聘博士人员岗位申请表.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2025/06/20/附件3：广西艺术学院2025年公开招聘博士人员情况一览表.doc",
+            "type": "doc",
+            "name": "附件3：广西艺术学院2025年公开招聘博士人员情况一览表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_304973",
+      "title": "广西艺术学院2024年公开招聘博士人员公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:08:58+08:00",
+      "issue": "附件：广西艺术学院公开招聘应聘岗位申请表：该格式尚需人工读取；附件2：广西艺术学院公开招聘博士人员岗位申请表.doc：该格式尚需人工读取",
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "http://rsc.gxau.edu.cn:8080/UploadFiles/201310/2013103011505140.doc",
+            "type": "doc",
+            "name": "附件：广西艺术学院公开招聘应聘岗位申请表",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2024/05/23/附件1：广西艺术学院2024年公开招聘博士人员岗位信息表（26人）(1).pdf",
+            "type": "pdf",
+            "name": "附件1：广西艺术学院2024年公开招聘博士人员岗位信息表（26人）(1).pdf"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2024/05/23/附件2：广西艺术学院公开招聘博士人员岗位申请表.doc",
+            "type": "doc",
+            "name": "附件2：广西艺术学院公开招聘博士人员岗位申请表.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2024/05/23/附件3：广西艺术学院2024年公开招聘博士人员情况一览表.xlsx",
+            "type": "xlsx",
+            "name": "附件3：广西艺术学院2024年公开招聘博士人员情况一览表.xlsx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2024/11/14/art_1229782005_4313743.html",
+      "title": "杭州师范大学2024年公开招聘心理咨询师公告",
+      "checked": "2026-11-20T23:14:15+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_304970",
+      "title": "广西艺术学院2024年度公开招聘教职人员控制数工作人员公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:09:11+08:00",
+      "issue": null,
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2024/05/23/附件1：广西艺术学院2024年公开招聘教职人员控制数工作人员岗位信息表.pdf",
+            "type": "pdf",
+            "name": "附件1：广西艺术学院2024年公开招聘教职人员控制数工作人员岗位信息表.pdf"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2024/05/23/附件2：广西艺术学院2024年公开招聘报名申请表.docx",
+            "type": "docx",
+            "name": "附件2：广西艺术学院2024年公开招聘报名申请表.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2024/05/23/附件3：广西艺术学院公开招聘报名操作手册.docx",
+            "type": "docx",
+            "name": "附件3：广西艺术学院公开招聘报名操作手册.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2026/0715/c2860a296462/page.htm",
+      "title": "江西师范大学附属中学（高新校区）2026年教师公开招聘公告",
+      "checked": "2026-11-20T23:09:13+08:00",
+      "issue": "附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/78c5a747-01c1-489e-82cc-79c0440dfd32.docx",
+            "type": "docx",
+            "name": "附件1：江西师范大学附属中学（高新校区）2026年公开招聘教师岗位表.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/52c72bcc-b6b5-436d-9908-e24439dcd30b.docx",
+            "type": "docx",
+            "name": "附件2：江西师范大学附属中学（高新校区）2026年公开招聘教师报考指南.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/41234556-3ee1-4669-ba04-e11d68abfad8.docx",
+            "type": "docx",
+            "name": "附件3：江西师范大学附属中学（高新校区）应聘人员近亲属报告承诺书.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/d887f348-c559-4e7d-9b69-ddaf50a73bde.pdf",
+            "type": "pdf",
+            "name": "附件4：学科专业目录汇编.pdf",
+            "error": "文件超出采集大小上限"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2026/0707/c2860a296213/page.htm",
+      "title": "江西师范大学及附属中学2026年公开招聘工作人员公告",
+      "checked": "2026-11-20T23:09:49+08:00",
+      "issue": "附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc：该格式尚需人工读取；附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc：该格式尚需人工读取；附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/50c35dcb-0f0c-4500-aab1-5c650f90b1a3.docx",
+            "type": "docx",
+            "name": "附件1：江西师范大学及附属中学2026年公开招聘工作人员岗位表.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/8a3e9612-4e37-439e-abf7-5b8ec7a759ba.doc",
+            "type": "doc",
+            "name": "附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/2d960bfd-857c-4c1e-b026-b14e335de720.doc",
+            "type": "doc",
+            "name": "附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/7927ddf1-a8e4-485c-abe5-c2bbdc3e5a59.pdf",
+            "type": "pdf",
+            "name": "附件4：学科专业目录汇编.pdf",
+            "error": "文件超出采集大小上限"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2026/0402/c2860a291570/page.htm",
+      "title": "江西师范大学流动化学与工程研究院高层次人才招聘公告",
+      "checked": "2026-11-20T23:09:51+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.jxnu.edu.cn/2026/0117/c13127a289644/page.htm",
+      "title": "江西师范大学2026年高层次人才招聘公告",
+      "checked": "2026-11-20T23:09:59+08:00",
+      "issue": null,
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/32b72d2c-b0cf-41c6-aaaa-bb4ff4969716.docx",
+            "type": "docx",
+            "name": "附件1.江西师范大学2026年高层次人才招聘岗位表.docx"
+          },
+          {
+            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/00bcbd8d-a14f-43fb-ac16-545582f6cf3f.docx",
+            "type": "docx",
+            "name": "附件2.江西师范大学高层次人才招聘报名表.docx"
+          },
+          {
+            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/51bf09c8-c779-45aa-a777-7ff98c42e4bd.docx",
+            "type": "docx",
+            "name": "附件3.江西师范大学应聘人员近亲属报告承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/t20261023_7239842.htm",
+      "title": "2026年秋季福建师范大学附属中学校园公开招聘教师方案 _ 招聘方案 _ 省人社厅",
+      "checked": "2026-11-20T23:09:16+08:00",
+      "issue": "附件1：福建师大附中招聘报名二维码.doc：该格式尚需人工读取；附件2：福建师大附中招聘登记表.doc：该格式尚需人工读取",
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564298961647.doc",
+            "type": "doc",
+            "name": "附件1：福建师大附中招聘报名二维码.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299291724.doc",
+            "type": "doc",
+            "name": "附件2：福建师大附中招聘登记表.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299594760.xls",
+            "type": "xls",
+            "name": "附件3 ：加分申请表.xls"
+          },
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299859554.docx",
+            "type": "docx",
+            "name": "附件4：诚信考试承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.fjnu.edu.cn/dd/a9/c9980a449961/page.htm",
+      "title": "福建师范大学离退休工作办公室2026年招聘校内退休人员方案",
+      "checked": "2026-11-20T23:09:25+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2025/0802/c2860a276278/page.htm",
+      "title": "江西师范大学数字产业学院硕士师资公开招聘公告",
+      "checked": "2026-11-20T23:10:15+08:00",
+      "issue": "附件1：招聘岗位及条件.doc：该格式尚需人工读取；附件2：学科专业目录汇编.pdf：PDF 页数过多",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/9c1e2a09-d71e-465b-94ea-5543ac86654b.doc",
+            "type": "doc",
+            "name": "附件1：招聘岗位及条件.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/19345d4d-8b16-4a0c-a198-a4e3178213a0.pdf",
+            "type": "pdf",
+            "name": "附件2：学科专业目录汇编.pdf",
+            "error": "PDF 页数过多"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/edf084f6-706d-4fa5-a6a5-ddd1e5a87d12.docx",
+            "type": "docx",
+            "name": "附件3：《江西师范大学数字产业学院硕士师资岗位应聘报名表》.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/df58f24d-8e03-45d2-a0cb-2eacb99a5658.xlsx",
+            "type": "xlsx",
+            "name": "附件4：《江西师范大学数字产业学院硕士师资岗位应聘人员基本情况汇总表》.xlsx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/8d114f5d-9478-4fc9-b764-f18af1675f92.docx",
+            "type": "docx",
+            "name": "附件5：应聘人员近亲属报告承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/info/1004/5833.htm",
+      "title": "May 27 山东师范大学2026年公开招聘人员公告",
+      "checked": "2026-11-20T23:08:40+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.sdnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/info/1004/5773.htm",
+      "title": "Apr 22 山东师范大学附属小学2026年第二批公开招聘人员公告",
+      "checked": "2026-11-20T23:08:41+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.sdnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/info/1004/5763.htm",
+      "title": "Apr 22 山东师范大学第二附属中学2026年第二批公开招聘人员公告",
+      "checked": "2026-11-20T23:08:43+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.sdnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/11708.htm",
+      "title": "陕西师范大学2027年心理健康教育教师招聘公告",
+      "checked": "2026-11-20T23:08:43+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/11048.htm",
+      "title": "附属小学2026年学科高层次人才岗位招聘公告",
+      "checked": "2026-11-20T23:08:45+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/10858.htm",
+      "title": "附属中学2026年学科竞赛人才计划岗位招聘公告",
+      "checked": "2026-11-20T23:08:46+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/10728.htm",
+      "title": "附属中学2026年学科骨干人才计划岗位招聘公告",
+      "checked": "2026-11-20T23:08:47+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/4529.htm",
+      "title": "安徽师范大学2025年度“人事代理”岗位招聘公告-人力资源部",
+      "checked": "2026-11-20T23:08:48+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/2950.htm",
+      "title": "关于发布我校2022年人才招聘计划的公告-人力资源部",
+      "checked": "2026-11-20T23:08:49+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1080.htm",
+      "title": "安徽师范大学2013年诚聘优秀人才公告-人力资源部",
+      "checked": "2026-11-20T23:08:50+08:00",
+      "issue": "20130122154433_19147.zip：该格式尚需人工读取",
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.ahnu.edu.cn/__local/5/C4/A7/332F2C878FF9A3970E97672666E_FF63021C_829D.zip?e=.zip",
+            "type": "zip",
+            "name": "20130122154433_19147.zip",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1079.htm",
+      "title": "安徽师范大学附属幼儿园2012年招聘优秀教师公告-人力资源部",
+      "checked": "2026-11-20T23:08:52+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1078.htm",
+      "title": "安徽师范大学2012年毕业生招聘公示（第三批）-人力资源部",
+      "checked": "2026-11-20T23:08:54+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1030/12556.htm",
+      "title": "未来科学与工程研究院校内公开招聘工作人员公告",
+      "checked": "2026-11-20T23:09:05+08:00",
+      "issue": "报名表.docx：File is not a zip file",
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://hr.ccnu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1887159177&wbfileid=8347835ABC259671D807D34C728FFA65",
+            "type": "docx",
+            "name": "报名表.docx",
+            "error": "File is not a zip file"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12196.htm",
+      "title": "华中师范大学2026年附小教师招聘参加笔试人员名单及后续考核安排",
+      "checked": "2026-11-20T23:09:06+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12186.htm",
+      "title": "华中师范大学2026年专业技术人员招聘参加笔试人员名单及后续考核安排",
+      "checked": "2026-11-20T23:09:07+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12176.htm",
+      "title": "华中师范大学2026年校医院内科医师招聘参加笔试人员名单及后续考核安排",
+      "checked": "2026-11-20T23:09:09+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12126.htm",
+      "title": "华中师范大学2026年校医院招聘参加初试人员名单及初试考核安排",
+      "checked": "2026-11-20T23:09:10+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
+      "title": "2026年福建师范大学高层次教学科研人员招聘方案 _ 高层次人才招聘方案 _ 省人社厅",
+      "checked": "2026-11-20T23:09:09+08:00",
+      "issue": null,
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/P020260309367611525276.docx",
+            "type": "docx",
+            "name": "（202601）福建师范大学教学科研岗位引进人才申报表.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.fjnu.edu.cn/ef/1d/c9980a454429/page.htm",
+      "title": "福建师范大学实验幼儿园2026年秋季公开招聘劳务派遣工作人员方案",
+      "checked": "2026-11-20T23:09:11+08:00",
+      "issue": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc：该格式尚需人工读取",
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.fjnu.edu.cn/_upload/article/files/0a/93/74f575fb44548e06d652fb0ec044/7c920182-37b7-450d-84eb-cc2a9569dcba.doc",
+            "type": "doc",
+            "name": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.nua.edu.cn/2026/0623/c4932a121824/page.htm",
+      "title": "南京艺术学院高层次人才引进和管理规定（修订）",
+      "checked": "2026-11-20T23:09:21+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.nua.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2025/art_c90115a14a1a4c089fce9d06db151f5b.html",
+      "title": "杭州师范大学2025年下半年（冬季）公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:09:27+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2025/7/8/art_1229782005_4369344.html",
+      "title": "杭州师范大学2025年公开招聘实验技术人员公告",
+      "checked": "2026-11-20T23:09:33+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2025/5/8/art_1229782005_4352169.html",
+      "title": "杭州师范大学2025年公开招聘工作人员公告",
+      "checked": "2026-11-20T23:09:39+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2025/5/8/art_1229782005_4352167.html",
+      "title": "杭州师范大学2025年春季公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:09:46+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/234951.htm",
+      "title": "中央音乐学院2024年度校园建设与管理处学生公寓宿舍管理岗位招聘公告",
+      "checked": "2026-11-20T23:13:15+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1517.htm",
+      "title": "天津音乐学院2025年第一批公开招聘博士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:30+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953767",
+            "type": "pdf",
+            "name": "天津音乐学院2025年第一批公开招聘博士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/233041.htm",
+      "title": "中央音乐学院2024年度校园建设与管理处岗位招聘公告",
+      "checked": "2026-11-20T23:13:17+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1520.htm",
+      "title": "天津音乐学院附属中等音乐学校2025年第一批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:22+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953812",
+            "type": "pdf",
+            "name": "天津音乐学院附属中等音乐学校2025年第一批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2024/11/13/art_1229782005_4313238.html",
+      "title": "杭州师范大学2024年下半年公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:14:24+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/rcxq/content_281013",
+      "title": "广西艺术学院2022年度第一批公开招聘非实名人员控制数工作人员公告_人才需求_广西艺术学院人事处",
+      "checked": "2026-11-20T23:14:24+08:00",
+      "issue": "202205171856343921.doc：该格式尚需人工读取",
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171854050852.pdf",
+            "type": "pdf",
+            "name": "1.广西艺术学院2022年度第一批公开招聘非实名人员控制数工作人员岗位信息表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171855348307.docx",
+            "type": "docx",
+            "name": "202205171855348307.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171855565851.xls",
+            "type": "xls",
+            "name": "3.广西艺术学院2022年公开招聘应聘人员情况一览表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171856167437.docx",
+            "type": "docx",
+            "name": "202205171856167437.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171856343921.doc",
+            "type": "doc",
+            "name": "202205171856343921.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2024/9/10/art_1229782005_4297785.html",
+      "title": "杭州师范大学2024年公开招聘专业技术人员公告",
+      "checked": "2026-11-20T23:14:32+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "http://hrss.hangzhou.gov.cn/art/2024/5/20/art_1229782005_4268768.html",
+      "title": "杭州师范大学公开选聘工学院院长公告",
+      "checked": "2026-11-20T23:14:44+08:00",
+      "issue": "连接失败：ReadTimeout",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1519.htm",
+      "title": "天津音乐学院2025年第二批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:26+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953811",
+            "type": "pdf",
+            "name": "天津音乐学院2025年第二批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1492.htm",
+      "title": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:34+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3952523",
+            "type": "pdf",
+            "name": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_293469",
+      "title": "广西艺术学院2023年度公开招聘高层次人才 （具有高级职称）公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:13:50+08:00",
+      "issue": "附件5.中共党员证明（模板）.doc：该格式尚需人工读取",
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/xlsx/2023/06/13/附件1：广西艺术学院2023年度公开招聘高层次人才（具有高级职称）岗位信息表.xlsx",
+            "type": "xlsx",
+            "name": "附件1：广西艺术学院2023年度公开招聘高层次人才（具有高级职称）岗位信息表.xlsx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/docx/2023/06/13/附件2：广西艺术学院高层次人才岗位申请表.docx",
+            "type": "docx",
+            "name": "附件2：广西艺术学院高层次人才岗位申请表.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/xls/2023/06/13/附件3：广西艺术学院高层次人才应聘人员情况一览表.xls",
+            "type": "xls",
+            "name": "附件3：广西艺术学院高层次人才应聘人员情况一览表.xls"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/docx/2023/06/13/附件4.工作经历及同意报考证明（模版）.docx",
+            "type": "docx",
+            "name": "附件4.工作经历及同意报考证明（模版）.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/doc/2023/06/13/附件5.中共党员证明（模板）.doc",
+            "type": "doc",
+            "name": "附件5.中共党员证明（模板）.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_298073",
+      "title": "广西艺术学院2023年高层次人才招聘公告_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:13:39+08:00",
+      "issue": null,
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2023/08/03/202308031659200958.xls",
+            "type": "xls",
+            "name": "附件1：广西艺术学院2023年高层次人才招聘岗位需求表.xls"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2023/08/03/202308031702401154.docx",
+            "type": "docx",
+            "name": "附件2：广西艺术学院高层次人才岗位申请表.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2023/08/03/202308031705382270.xls",
+            "type": "xls",
+            "name": "附件3：广西艺术学院2023年高层次人才情况一览表.xls"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1077.htm",
+      "title": "安徽师范大学校医院招聘启事-人力资源部",
+      "checked": "2026-11-20T23:13:41+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1075.htm",
+      "title": "安徽师范大学国际教育学院校内公开招聘外办秘书公告-人力资源部",
+      "checked": "2026-11-20T23:13:44+08:00",
+      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.ahnu.edu.cn/__local/B/CB/43/938141433F9A640B9659F5FAC1C_23CD054A_CA00.doc?e=.doc",
+            "type": "doc",
+            "name": "附件=>附件：安徽师范大学招聘工作人员报名表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/bmgg/content_292841",
+      "title": "关于公布我校2023年度第一批公开招聘非实名人员控制数工作人员4号书法教师岗位试讲成绩及进入面试人员名单的通知_部门公告_广西艺术学院人事处",
+      "checked": "2026-11-20T23:13:55+08:00",
+      "issue": "附件1：广西艺术学院2023年度第一批公开招聘非实名人员控制数工作人员4号书法教师岗位6月4日面试安排表.xl：工作表超出大小限制",
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/xlsx/2023/06/03/附件1：广西艺术学院2023年度第一批公开招聘非实名人员控制数工作人员4号书法教师岗位6月4日面试安排表.xlsx",
+            "type": "xlsx",
+            "name": "附件1：广西艺术学院2023年度第一批公开招聘非实名人员控制数工作人员4号书法教师岗位6月4日面试安排表.xlsx",
+            "error": "工作表超出大小限制"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1480.htm",
+      "title": "天津音乐学院2024年第三批公开招聘硕士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:41+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3951700",
+            "type": "pdf",
+            "name": "天津音乐学院2024年第三批公开招聘硕士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1076.htm",
+      "title": "安徽师范大学园艺专业实训基地公开招聘工作人员公告-人力资源部",
+      "checked": "2026-11-20T23:13:42+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1074.htm",
+      "title": "安徽师范大学外国语学院校内公开招聘工作人员公告-人力资源部",
+      "checked": "2026-11-20T23:13:45+08:00",
+      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.ahnu.edu.cn/__local/B/CB/43/938141433F9A640B9659F5FAC1C_23CD054A_CA00.doc?e=.doc",
+            "type": "doc",
+            "name": "附件=>附件：安徽师范大学招聘工作人员报名表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/rcxq/content_281120",
+      "title": "广西艺术学院2022年度公开招聘高层次人才（具有高级职称）岗位信息表_人才需求_广西艺术学院人事处",
+      "checked": "2026-11-20T23:14:12+08:00",
+      "issue": null,
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/20/202205202338078900.pdf",
+            "type": "pdf",
+            "name": "1.广西艺术学院2022年度公开招聘高层次人才（具有高级职称）岗位信息表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/20/202205202339401983.docx",
+            "type": "docx",
+            "name": "2.广西艺术学院高层次人才应聘岗位申请表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/20/202205202340255145.xls",
+            "type": "xls",
+            "name": "3.广西艺术学院高层次人才应聘人员情况一览表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/20/202205202341023558.docx",
+            "type": "docx",
+            "name": "4.工作经历及同意报考证明（模版）"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/rcxq/content_281012",
+      "title": "广西艺术学院附属中等艺术学校2022年度公开招聘工作人员公告_人才需求_广西艺术学院人事处",
+      "checked": "2026-11-20T23:15:46+08:00",
+      "issue": "202205171844430960.doc：该格式尚需人工读取",
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171843132086.pdf",
+            "type": "pdf",
+            "name": "1.广西艺术学院附属中等艺术学校2022年度公开招聘工作人员岗位信息表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171843459034.docx",
+            "type": "docx",
+            "name": "2.广西艺术学院附属中等艺术学校2022年公开招聘报名申请表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171844096667.xls",
+            "type": "xls",
+            "name": "3.广西艺术学院附属中等艺术学校2022年公开招聘应聘人员情况一览表"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171844295921.docx",
+            "type": "docx",
+            "name": "202205171844295921.docx"
+          },
+          {
+            "url": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171844430960.doc",
+            "type": "doc",
+            "name": "202205171844430960.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/szdw/content_222969",
+      "title": "广艺政发〔2017〕100号关于印发《广西艺术学院高层次人才引进实施办法》的通知_师资队伍_广西艺术学院人事处",
+      "checked": "2026-11-20T23:15:47+08:00",
+      "issue": null,
+      "source": "https://rsc.gxau.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "identity": "6dffff079dfa2ee5080299d446459415e29d0f5a4f22972a743eb901c6818d52",
+      "school": "天津音乐学院附属中等音乐学校",
+      "title": "视唱练耳教师",
+      "data": {
+        "stage": "中职",
+        "city": "天津",
+        "province": "天津",
+        "school_type": "附属中等艺术学校",
+        "published": "2026-03-05",
+        "starts": "2026-03-18T09:00",
+        "deadline": "2026-03-25T09:00",
+        "apply_url": "https://rsc.tjcm.edu.cn/gkzp/bmxt.htm",
+        "code": "26002209",
+        "department": "天津音乐学院附属中等音乐学校",
+        "title": "视唱练耳教师",
+        "count": "1",
+        "degree": "硕士研究生及以上",
+        "other": "38周岁及以下；从事视唱练耳教育、教学工作； 具有相应学科的中等职业学校或高中教师资格证。",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:19+08:00",
+      "checked": "2026-11-20T23:08:19+08:00"
+    },
+    {
+      "identity": "912cc7cd278536ea2380d1392fc615f1421e5862dc76aa14f7f78cc09bce5378",
+      "school": "天津音乐学院",
+      "title": "中国音乐史教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "天津",
+        "province": "天津",
+        "school_type": "音乐学院",
+        "published": "2026-02-05",
+        "starts": "2026-02-26T09:00",
+        "deadline": "2026-03-12T16:00",
+        "apply_url": "https://rsc.tjcm.edu.cn/gkzp/bmxt.htm",
+        "code": "26001104",
+        "department": "人文学院",
+        "title": "中国音乐史教师",
+        "count": "1",
+        "degree": "博士研究生",
+        "other": "43周岁及以下",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:29+08:00",
+      "checked": "2026-11-20T23:08:29+08:00"
+    },
+    {
+      "identity": "2e82c976cf105a584bc31cd85a8413abb0b46e1248a7b493895982e6bf426093",
+      "school": "中央音乐学院",
+      "title": "作曲教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "作曲系",
+        "title": "作曲教学岗",
+        "major": "作曲",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "3132b92d793fdaef3c29afb1fb69681e53738b7398498bdf899c4d6e5dde08dc",
+      "school": "中央音乐学院",
+      "title": "作曲技术理论教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "作曲系",
+        "title": "作曲技术理论教学岗",
+        "major": "作曲",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "132f1be5fe1a9d3f5069a27e3fef28ebe8b039bf3beba928c692b916c8db5938",
+      "school": "中央音乐学院",
+      "title": "视唱练耳教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "作曲系",
+        "title": "视唱练耳教学岗",
+        "major": "视唱练耳",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "af2948488c98fad9128f4196391ef40a9efcac6dbd012e4cad63896a7a5d08c2",
+      "school": "中央音乐学院",
+      "title": "中国传统音乐理论教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐学系",
+        "title": "中国传统音乐理论教学岗",
+        "major": "音乐学",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "5f03a90708685f742406ec195a770bf1b24a243d1aee6d9d3fb1f429c0a5cee6",
+      "school": "中央音乐学院",
+      "title": "中国音乐史教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐学系",
+        "title": "中国音乐史教学岗",
+        "major": "音乐学",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "b61640f3afec08f797973304b5e57bd164069ca73155c00eb3c982e4d35bcd0a",
+      "school": "中央音乐学院",
+      "title": "西方音乐史教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐学系",
+        "title": "西方音乐史教学岗",
+        "major": "音乐学",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "70bd1a293747eb863ce40477d2ac9014c601cb78caf71b487751b5174c879c40",
+      "school": "中央音乐学院",
+      "title": "世界民族音乐教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐学系",
+        "title": "世界民族音乐教学岗",
+        "major": "音乐学",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "43e399ca9a1c74b385e6e2c300055f6dcbe2b9282dbb08ddffe05bb04ff38d50",
+      "school": "中央音乐学院",
+      "title": "音乐美学教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐学系",
+        "title": "音乐美学教学岗",
+        "major": "音乐学",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "55fc25a4cb4de0109adbe5a98a94c3400d9096e40f8efdeac27e0c6d1fecdf02",
+      "school": "中央音乐学院",
+      "title": "钢琴艺术指导教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "指挥系",
+        "title": "钢琴艺术指导教学岗",
+        "major": "钢琴",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "ef9040763ef90c94f852adbfc439f8191418793d8fc192cf9cdeae5b51f30d9a",
+      "school": "中央音乐学院",
+      "title": "钢琴教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "钢琴系",
+        "title": "钢琴教学岗",
+        "major": "钢琴",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "082694e0b248edf7b75e011c47786f16ed4b465844bcf8f1650a2b2fbf1a6a18",
+      "school": "中央音乐学院",
+      "title": "钢琴共同课教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "钢琴系",
+        "title": "钢琴共同课教学岗",
+        "major": "钢琴",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "dc9b5e42b0ef0669728a0756a01806f046b9a2300d7b4edccd65ea4f75416887",
+      "school": "中央音乐学院",
+      "title": "钢琴艺术指导教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "管弦系",
+        "title": "钢琴艺术指导教学岗",
+        "major": "钢琴",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "338388b7c6a1ab8324a2a0680d717f46efca27b1f8362f11d36868a7300152d8",
+      "school": "中央音乐学院",
+      "title": "声乐艺术指导教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "声乐歌剧系",
+        "title": "声乐艺术指导教学岗",
+        "major": "钢琴",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "a0e51b0525004fa6fde99b6b6c43d9bdbd51b59df6fe66e0d05abd7fa299a97b",
+      "school": "中央音乐学院",
+      "title": "教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐教育学院",
+        "title": "教学岗",
+        "major": "音乐教育",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "7074004b8a3892cb68dad10ddbf3c0241d7ead7dc695d07ab68e123db30a5b33",
+      "school": "中央音乐学院",
+      "title": "电子音乐作曲教学岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2025-03-20",
+        "starts": "2025-03-20",
+        "deadline": "2025-04-15",
+        "employment": "劳务派遣",
+        "department": "音乐人工智能与音乐信息科技系",
+        "title": "电子音乐作曲教学岗",
+        "major": "电子音乐",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:30+08:00",
+      "checked": "2026-11-20T23:08:30+08:00"
+    },
+    {
+      "identity": "a6a910b45c8a047fc05b26a67652e71bea7ff267d988dea4f0b38f86f223111d",
+      "school": "香港中文大学（深圳）音乐学院",
+      "title": "钢琴与键盘学部 – 钢琴/键盘演奏专业 – 副教授（教学）/助理教授（教学）/讲师",
+      "data": {
+        "stage": "高等教育",
+        "city": "深圳",
+        "province": "广东",
+        "school_type": "大学音乐学院",
+        "title": "钢琴与键盘学部 – 钢琴/键盘演奏专业 – 副教授（教学）/助理教授（教学）/讲师",
+        "code": "AC2026/057/01",
+        "detail_url": "https://jobs.cuhk.edu.cn/jobDetails?id=843",
+        "issue": "官网岗位目录已核验，详细资格与截止日期待人工核实",
+        "workload": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:31+08:00",
+      "checked": "2026-11-20T23:08:31+08:00"
+    },
+    {
+      "identity": "f279ce701b9db621e188fe30effbac02c5bd0a9d3cb844cd253e8d1e9cb88985",
+      "school": "香港中文大学（深圳）音乐学院",
+      "title": "作曲指挥学部–作曲–助理教授/讲师",
+      "data": {
+        "stage": "高等教育",
+        "city": "深圳",
+        "province": "广东",
+        "school_type": "大学音乐学院",
+        "title": "作曲指挥学部–作曲–助理教授/讲师",
+        "code": "AC2026/018/01",
+        "detail_url": "https://jobs.cuhk.edu.cn/jobDetails?id=763",
+        "issue": "官网岗位目录已核验，详细资格与截止日期待人工核实",
+        "workload": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:31+08:00",
+      "checked": "2026-11-20T23:08:31+08:00"
+    },
+    {
+      "identity": "40b047e3b27b07d2d6b10e2a46264349d73778842a84303d8b52ec24113d10f9",
+      "school": "中央音乐学院",
+      "title": "音乐人工智能与音乐信息科技系电子音乐作曲专业教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "北京",
+        "province": "北京",
+        "school_type": "音乐学院",
+        "published": "2024-10-22",
+        "starts": "2024-10-22T18:00",
+        "deadline": "2024-10-29",
+        "employment": "劳务派遣",
+        "title": "音乐人工智能与音乐信息科技系电子音乐作曲专业教师",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:32+08:00",
+      "checked": "2026-11-20T23:08:32+08:00"
+    },
+    {
+      "identity": "a5dd12a1427d4752b07c058177bbb5a268dc44971d76cf0814351003574e2194",
+      "school": "天津音乐学院",
+      "title": "视唱练耳教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "天津",
+        "province": "天津",
+        "school_type": "音乐学院",
+        "published": "2025-05-29",
+        "starts": "2025-06-04T09:00",
+        "deadline": "2025-06-11T09:00",
+        "apply_url": "https://rsc.tjcm.edu.cn/gkzp/bmxt.htm",
+        "code": "25001209",
+        "department": "作曲指挥系",
+        "title": "视唱练耳教师",
+        "count": "1",
+        "degree": "硕士研究生及以上",
+        "other": "30周岁及以下；应届高校毕业生。",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:32+08:00",
+      "checked": "2026-11-20T23:08:32+08:00"
+    },
+    {
+      "identity": "90a71ab9ef84548ebd87f44af0806b70b64a8209fcb1b81cb06e1d3aab6a0ead",
+      "school": "天津音乐学院",
+      "title": "音乐学教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "天津",
+        "province": "天津",
+        "school_type": "音乐学院",
+        "published": "2025-05-29",
+        "starts": "2025-06-04",
+        "deadline": "2025-06-11",
+        "apply_url": "https://rsc.tjcm.edu.cn/gkzp/bmxt.htm",
+        "code": "25001110",
+        "department": "人文学院",
+        "title": "音乐学教师",
+        "count": "1",
+        "degree": "博士研究生",
+        "other": "40周岁及以下；具有副高级及以上专业技术职称",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:35+08:00",
+      "checked": "2026-11-20T23:08:35+08:00"
+    },
+    {
+      "identity": "0a7b5788fe1aab607584b20ef05c064165cb690e02cc80164f533c51dcbeb9a3",
+      "school": "浙江音乐学院",
+      "title": "戏曲作曲专任教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "杭州",
+        "province": "浙江",
+        "school_type": "音乐学院",
+        "published": "2026-09-18",
+        "apply_url": "http://renshi.zjcm.edu.cn:8000",
+        "employment": "事业单位报备员额内用人",
+        "code": "A17-26-14",
+        "department": "戏剧系",
+        "title": "戏曲作曲专任教师",
+        "count": "1",
+        "other": "50周岁；1.具有5年以上专业戏曲艺术院团相关工作经历或艺术院校相关专业教学经历。 2.独立创作并公开演出戏曲作品3部，其中须包含1部中大型戏曲作品。 3.作为主创人员参与国家级科研创表项目。 4.主创作品获相关专业赛事省级金奖或国家级奖项。 注：学业专业和职业专业（以职称、职业资格证书为准）均可作为专业/学科方向的认定依据。",
+        "degree": "本科",
+        "rank": "正高",
+        "major": "艺术学、戏剧与影视、 戏曲与曲艺等相关专业",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:38+08:00",
+      "checked": "2026-11-20T23:08:38+08:00"
+    },
+    {
+      "identity": "127806a080dc7b4f4ad32b4da2fab7595156cb3b92daa550e0e136921bd1e6db",
+      "school": "浙江音乐学院",
+      "title": "音乐制作专任教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "杭州",
+        "province": "浙江",
+        "school_type": "音乐学院",
+        "published": "2026-09-18",
+        "apply_url": "http://renshi.zjcm.edu.cn:8000",
+        "employment": "事业单位报备员额内用人",
+        "code": "A17-26-06",
+        "department": "音乐工程系",
+        "title": "音乐制作专任教师",
+        "count": "1",
+        "other": "38周岁；1.本、硕、博中须有一个为国内独立设置专业音乐、艺术类院校相关专业毕业；如在国外、港澳台地区院校取得学历学位，主修专业方向须与招聘专业方向一致。 2.独立创作并制作音乐作品3部，其中须包含1部中大型作品。 注：学业专业和职业专业（以职称、职业资格证书为准）均可作为专业/学科方向的认定依据。",
+        "degree": "研究生/博士",
+        "major": "作曲、电子音乐作曲、 音乐制作等相关专业",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:38+08:00",
+      "checked": "2026-11-20T23:08:38+08:00"
+    },
+    {
+      "identity": "5cbe3465260f2de87f296ddf819c45fdbc9b431beb0287f0cb93f7c5ea9fde90",
+      "school": "浙江音乐学院",
+      "title": "艺术与科技专任教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "杭州",
+        "province": "浙江",
+        "school_type": "音乐学院",
+        "published": "2026-09-18",
+        "apply_url": "http://renshi.zjcm.edu.cn:8000",
+        "employment": "事业单位报备员额内用人",
+        "code": "A17-26-07",
+        "department": "音乐工程系",
+        "title": "艺术与科技专任教师",
+        "count": "1",
+        "other": "38周岁；1.本、硕、博中须有一个为国内独立设置艺术类、传媒类院校相关专业毕业，或其他院校音乐科技相关理工类专业毕业；如在国外、港澳台地区院校取得学历学位，主修专业方向须与招聘专业方向一致。 2.作为主创人员创作重要国际艺术活动入选作品或音频科技相关工程开发作品2部。 注：学业专业和职业专业（以职称、职业资格证书为准）均可作为专业/学科方向的认定依据。",
+        "degree": "研究生/博士",
+        "major": "艺术与科技、设计学、 声音设计、音响工程、 录音艺术、计算机科学与技术、音乐人工智能 、软件工程、数字媒体技术等相关专业",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:38+08:00",
+      "checked": "2026-11-20T23:08:38+08:00"
+    },
+    {
+      "identity": "7501d099c32898ff1282687e7a102c07a14a64e6e8f71be9c86d8aa7cb4346fc",
+      "school": "浙江音乐学院",
+      "title": "钢琴艺术指导 （管弦方向）",
+      "data": {
+        "stage": "高等教育",
+        "city": "杭州",
+        "province": "浙江",
+        "school_type": "音乐学院",
+        "published": "2026-09-18",
+        "apply_url": "http://renshi.zjcm.edu.cn:8000",
+        "employment": "事业单位报备员额内用人",
+        "code": "A17-26-08",
+        "department": "艺术指导教学部",
+        "title": "钢琴艺术指导 （管弦方向）",
+        "count": "1",
+        "other": "38周岁；1.本、硕、博均为国内独立设置专业音乐、艺术院校相关专业毕业；如在国外、港澳台地区院校取得学历学位，主修专业方向须与招聘专业方向一致。 2.熟练掌握中外器乐合作作品的演奏与指导。 注：学业专业和职业专业（以职称、职业资格证书为准）均可作为专业/学科方向的认定依据。",
+        "degree": "研究生/博士",
+        "major": "钢琴演奏、钢琴艺术指导等相关专业",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:38+08:00",
+      "checked": "2026-11-20T23:08:38+08:00"
+    },
+    {
+      "identity": "c94968a866da154889f74edc6fbfdb92b445da0c28e3a94c7a8c7aced14053fb",
+      "school": "广西艺术学院",
+      "title": "音乐学院中国乐器演奏专任教师岗位",
+      "data": {
+        "stage": "高等教育",
+        "city": "南宁",
+        "province": "广西",
+        "school_type": "艺术学院",
+        "published": "2026-05-13",
+        "employment": "事业编制",
+        "department": "广西艺术学院",
+        "title": "音乐学院中国乐器演奏专任教师岗位",
+        "major": "音乐、音乐学、音乐与舞蹈学",
+        "other": "无要求；≤45 周岁；有职称的可按照岗位管理相关规定进行聘岗",
+        "degree": "研究生、 博士学位",
+        "rank": "无要求",
+        "count": "1",
+        "deadline": "2026-12-31",
+        "early_close": true,
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:43+08:00",
+      "checked": "2026-11-20T23:08:43+08:00"
+    },
+    {
+      "identity": "3acf6df696cc5f51c1a26712a32131b5bbef742e970c9fef4a70c3f9a729a00c",
+      "school": "福建师范大学",
+      "title": "教学科研岗",
+      "data": {
+        "stage": "高等教育",
+        "city": "福州",
+        "province": "福建",
+        "school_type": "师范大学",
+        "published": "2026-03-09",
+        "title": "教学科研岗",
+        "major": "表演艺术类【音乐学、声乐、舞蹈学（编导、表演、中国古典舞等方向）、戏剧与影视学（戏剧影视表演方向）、音乐表演（钢琴演奏、管弦方向）】、艺术设计类【艺术学、艺术学理论中音乐、舞蹈、戏曲等相关方向】等相关专业",
+        "count": "10",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:09:09+08:00",
+      "checked": "2026-11-20T23:09:09+08:00"
+    },
+    {
+      "identity": "ffac391cef920681c33efa6f18a54e00b02e59b116e26877bb742cfc37312ab6",
+      "school": "天津音乐学院附属中等音乐学校",
+      "title": "作曲教师",
+      "data": {
+        "stage": "中职",
+        "city": "天津",
+        "province": "天津",
+        "school_type": "附属中等艺术学校",
+        "published": "2024-11-08",
+        "starts": "2024-11-09",
+        "deadline": "2024-11-21",
+        "apply_url": "https://rsc.tjcm.edu.cn/gkzp/bmxt.htm",
+        "general": "1.具有中华人民共和国国籍；；5.全日制在读的非应届毕业生；",
+        "code": "24002202",
+        "department": "天津音乐学院附属中等音乐学校",
+        "title": "作曲教师",
+        "count": "1",
+        "degree": "硕士研究生",
+        "other": "35周岁及以下；具有中等职业学校音乐教师资格证或高中音乐教师资格证。",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:13:34+08:00",
+      "checked": "2026-11-20T23:13:34+08:00"
+    },
+    {
+      "identity": "09a5210d750b79ea84aa5da63a8cdec5412820003c6cfd330bb6638f8856dade",
+      "school": "广西艺术学院",
+      "title": "民族音乐实验室教师1",
+      "data": {
+        "stage": "高等教育",
+        "city": "南宁",
+        "province": "广西",
+        "school_type": "艺术学院",
+        "published": "2022-05-17",
+        "starts": "2022-05-17",
+        "deadline": "2022-05-26",
+        "general": "（一）具有中华人民共和国国籍；；（七）应届毕业生原则上需2022年7月31日前获得相应学历学位。",
+        "department": "艺术研究院",
+        "title": "民族音乐实验室教师1",
+        "count": "1",
+        "major": "音乐与舞蹈学 （民族乐器演奏）",
+        "degree": "研究生；硕士",
+        "other": "35周岁以下",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:14:24+08:00",
+      "checked": "2026-11-20T23:14:24+08:00"
+    },
+    {
+      "identity": "f0fe543faf721ee3712777df0392e4ba3c65e4fd2c0919073ccd6681bd5840c2",
+      "school": "浙江音乐学院",
+      "title": "电子音乐作曲专任教师",
+      "data": {
+        "stage": "高等教育",
+        "city": "杭州",
+        "province": "浙江",
+        "school_type": "音乐学院",
+        "published": "2026-09-18",
+        "apply_url": "http://renshi.zjcm.edu.cn:8000",
+        "employment": "事业单位报备员额内用人",
+        "code": "A17-26-03",
+        "department": "作曲与指挥系",
+        "title": "电子音乐作曲专任教师",
+        "count": "1",
+        "other": "38周岁；1.博士研究方向为相应专业方向，且本科为国内独立设置专业音乐、艺术院校相应专业毕业；如在国外、港澳台地区院校取得学历学位，主修专业须与招聘专业方向一致 。 2.本人创作已公开演出、获奖或发表的代表性电子音乐作品、混合式电子音乐作品、 室内乐、管弦乐队作品等3部及以上。 注：学业专业和职业专业（以职称、职业资格证书为准）均可作为专业/学科方向的认定依据。",
+        "degree": "研究生/博士",
+        "major": "作曲、电子音乐作曲",
+        "workload": null,
+        "issue": null,
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:08:38+08:00",
+      "checked": "2026-11-20T23:08:38+08:00"
+    },
+    {
+      "identity": "489cb15979fa91cd68a3986364588ee2ca849edd93eb83fd19c04216ad0a2b9e",
+      "school": "广西艺术学院",
+      "title": "民族音乐实验室教师2",
+      "data": {
+        "stage": "高等教育",
+        "city": "南宁",
+        "province": "广西",
+        "school_type": "艺术学院",
+        "published": "2022-05-17",
+        "starts": "2022-05-17",
+        "deadline": "2022-05-26",
+        "general": "（一）具有中华人民共和国国籍；；（七）应届毕业生原则上需2022年7月31日前获得相应学历学位。",
+        "department": "音乐学院",
+        "title": "民族音乐实验室教师2",
+        "count": "1",
+        "major": "音乐与舞蹈学 （民族乐器演奏）、音乐领域艺术硕士",
+        "degree": "研究生；硕士",
+        "other": "35周岁以下",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:14:24+08:00",
+      "checked": "2026-11-20T23:14:24+08:00"
+    },
+    {
+      "identity": "f3960601b9f18e76c3c65ca58c6754cb40c0b1149020b405e4a6ed4a21aefb75",
+      "school": "广西艺术学院附属中等艺术学校",
+      "title": "钢琴伴奏教师",
+      "data": {
+        "stage": "中职",
+        "city": "南宁",
+        "province": "广西",
+        "school_type": "附属中等艺术学校",
+        "published": "2022-05-17",
+        "starts": "2022-05-17",
+        "deadline": "2022-05-26",
+        "general": "（一）具有中华人民共和国国籍；；（七）应届毕业生原则上需2022年7月31日前获得相应学历学位。",
+        "department": "附属中等艺术学校",
+        "title": "钢琴伴奏教师",
+        "count": "1",
+        "major": "音乐与舞蹈学",
+        "degree": "研究生；学士",
+        "rank": "中级职称",
+        "other": "40岁以下；不限；具有学校工作经历两年",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:15:46+08:00",
+      "checked": "2026-11-20T23:15:46+08:00"
+    },
+    {
+      "identity": "04bcdb2eaeecd9e4093074b3d2566185ae3bed00247ed951446b4f2f3372ac46",
+      "school": "广西艺术学院附属中等艺术学校",
+      "title": "音乐理论教师",
+      "data": {
+        "stage": "中职",
+        "city": "南宁",
+        "province": "广西",
+        "school_type": "附属中等艺术学校",
+        "published": "2022-05-17",
+        "starts": "2022-05-17",
+        "deadline": "2022-05-26",
+        "general": "（一）具有中华人民共和国国籍；；（七）应届毕业生原则上需2022年7月31日前获得相应学历学位。",
+        "department": "附属中等艺术学校",
+        "title": "音乐理论教师",
+        "count": "1",
+        "major": "音乐学（文化艺术管理）",
+        "degree": "本科；学士",
+        "other": "35岁以下；不限；具有学校工作经历两年",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:15:46+08:00",
+      "checked": "2026-11-20T23:15:46+08:00"
+    },
+    {
+      "identity": "1f1b569ba2f46d0c2d88f16806cf62fa86b0b77d5b1122837d6b25abfd8cf905",
+      "school": "广西艺术学院附属中等艺术学校",
+      "title": "视唱练耳教师教师",
+      "data": {
+        "stage": "中职",
+        "city": "南宁",
+        "province": "广西",
+        "school_type": "附属中等艺术学校",
+        "published": "2022-05-17",
+        "starts": "2022-05-17",
+        "deadline": "2022-05-26",
+        "general": "（一）具有中华人民共和国国籍；；（七）应届毕业生原则上需2022年7月31日前获得相应学历学位。",
+        "department": "附属中等艺术学校",
+        "title": "视唱练耳教师教师",
+        "count": "1",
+        "major": "音乐教育学",
+        "degree": "研究生；硕士",
+        "other": "40岁以下；不限；具有学校工作经历两年",
+        "workload": null,
+        "issue": "部分附件待人工核实",
+        "official": true
+      },
+      "first_seen": "2026-11-20T23:15:46+08:00",
+      "checked": "2026-11-20T23:15:46+08:00"
+    }
+  ],
+  "evidence": [
+    {
+      "job": "6dffff079dfa2ee5080299d446459415e29d0f5a4f22972a743eb901c6818d52",
+      "notice": "https://rsc.tjcm.edu.cn/info/1266/1600.htm",
+      "data": {
+        "file": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3960157",
+        "file_name": "天津音乐学院附属中等音乐学校2026年第一批公开招聘硕士及以上岗位工作人员计划表.pdf",
+        "location": "PDF 第 2 页 · 第 3 行",
+        "excerpt": "岗位：视唱练耳教师｜学历：硕士研究生及以上"
+      }
+    },
+    {
+      "job": "912cc7cd278536ea2380d1392fc615f1421e5862dc76aa14f7f78cc09bce5378",
+      "notice": "https://rsc.tjcm.edu.cn/info/1266/1597.htm",
+      "data": {
+        "file": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3959970",
+        "file_name": "天津音乐学院2026年第一批公开招聘博士岗位工作人员计划表.pdf",
+        "location": "PDF 第 1 页 · 第 5 行",
+        "excerpt": "岗位：中国音乐史教师｜学历：博士研究生"
+      }
+    },
+    {
+      "job": "2e82c976cf105a584bc31cd85a8413abb0b46e1248a7b493895982e6bf426093",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 2 行",
+        "excerpt": "岗位：作曲教学岗｜方向：作曲"
+      }
+    },
+    {
+      "job": "3132b92d793fdaef3c29afb1fb69681e53738b7398498bdf899c4d6e5dde08dc",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 3 行",
+        "excerpt": "岗位：作曲技术理论教学岗｜方向：作曲"
+      }
+    },
+    {
+      "job": "132f1be5fe1a9d3f5069a27e3fef28ebe8b039bf3beba928c692b916c8db5938",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 4 行",
+        "excerpt": "岗位：视唱练耳教学岗｜方向：视唱练耳"
+      }
+    },
+    {
+      "job": "af2948488c98fad9128f4196391ef40a9efcac6dbd012e4cad63896a7a5d08c2",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 5 行",
+        "excerpt": "岗位：中国传统音乐理论教学岗｜方向：音乐学"
+      }
+    },
+    {
+      "job": "5f03a90708685f742406ec195a770bf1b24a243d1aee6d9d3fb1f429c0a5cee6",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 6 行",
+        "excerpt": "岗位：中国音乐史教学岗｜方向：音乐学"
+      }
+    },
+    {
+      "job": "b61640f3afec08f797973304b5e57bd164069ca73155c00eb3c982e4d35bcd0a",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 7 行",
+        "excerpt": "岗位：西方音乐史教学岗｜方向：音乐学"
+      }
+    },
+    {
+      "job": "70bd1a293747eb863ce40477d2ac9014c601cb78caf71b487751b5174c879c40",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 8 行",
+        "excerpt": "岗位：世界民族音乐教学岗｜方向：音乐学"
+      }
+    },
+    {
+      "job": "43e399ca9a1c74b385e6e2c300055f6dcbe2b9282dbb08ddffe05bb04ff38d50",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 9 行",
+        "excerpt": "岗位：音乐美学教学岗｜方向：音乐学"
+      }
+    },
+    {
+      "job": "55fc25a4cb4de0109adbe5a98a94c3400d9096e40f8efdeac27e0c6d1fecdf02",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 12 行",
+        "excerpt": "岗位：钢琴艺术指导教学岗｜方向：钢琴"
+      }
+    },
+    {
+      "job": "ef9040763ef90c94f852adbfc439f8191418793d8fc192cf9cdeae5b51f30d9a",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 13 行",
+        "excerpt": "岗位：钢琴教学岗｜方向：钢琴"
+      }
+    },
+    {
+      "job": "082694e0b248edf7b75e011c47786f16ed4b465844bcf8f1650a2b2fbf1a6a18",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 14 行",
+        "excerpt": "岗位：钢琴共同课教学岗｜方向：钢琴"
+      }
+    },
+    {
+      "job": "dc9b5e42b0ef0669728a0756a01806f046b9a2300d7b4edccd65ea4f75416887",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 33 行",
+        "excerpt": "岗位：钢琴艺术指导教学岗｜方向：钢琴"
+      }
+    },
+    {
+      "job": "338388b7c6a1ab8324a2a0680d717f46efca27b1f8362f11d36868a7300152d8",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 51 行",
+        "excerpt": "岗位：声乐艺术指导教学岗｜方向：钢琴"
+      }
+    },
+    {
+      "job": "a0e51b0525004fa6fde99b6b6c43d9bdbd51b59df6fe66e0d05abd7fa299a97b",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 52 行",
+        "excerpt": "岗位：教学岗｜方向：音乐教育"
+      }
+    },
+    {
+      "job": "7074004b8a3892cb68dad10ddbf3c0241d7ead7dc695d07ab68e123db30a5b33",
+      "notice": "https://www.ccom.edu.cn/info/5301/245721.htm",
+      "data": {
+        "location": "正文表 1 · 第 54 行",
+        "excerpt": "岗位：电子音乐作曲教学岗｜方向：电子音乐"
+      }
+    },
+    {
+      "job": "a6a910b45c8a047fc05b26a67652e71bea7ff267d988dea4f0b38f86f223111d",
+      "notice": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "data": {
+        "location": "学院官网教职岗位目录",
+        "excerpt": "钢琴与键盘学部 – 钢琴/键盘演奏专业 – 副教授（教学）/助理教授（教学）/讲师 – 音乐学院 (Ref. AC2026/057/01)",
+        "detail_url": "https://jobs.cuhk.edu.cn/jobDetails?id=843"
+      }
+    },
+    {
+      "job": "f279ce701b9db621e188fe30effbac02c5bd0a9d3cb844cd253e8d1e9cb88985",
+      "notice": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "data": {
+        "location": "学院官网教职岗位目录",
+        "excerpt": "作曲指挥学部–作曲–助理教授/讲师–音乐学院 (Ref. AC2026/018/01)",
+        "detail_url": "https://jobs.cuhk.edu.cn/jobDetails?id=763"
+      }
+    },
+    {
+      "job": "40b047e3b27b07d2d6b10e2a46264349d73778842a84303d8b52ec24113d10f9",
+      "notice": "https://www.ccom.edu.cn/info/5301/236071.htm",
+      "data": {
+        "location": "公告正文",
+        "excerpt": "根据工作需要，经学院研究决定：面向社会公开招聘音乐人工智能与音乐信息科技系电子音乐作曲专业教师岗位1名，现将有关招聘事项公告如下："
+      }
+    },
+    {
+      "job": "a5dd12a1427d4752b07c058177bbb5a268dc44971d76cf0814351003574e2194",
+      "notice": "https://rsc.tjcm.edu.cn/info/1266/1560.htm",
+      "data": {
+        "file": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3956567",
+        "file_name": "天津音乐学院2025年第四批公开招聘硕士及以上岗位工作人员计划表.pdf",
+        "location": "PDF 第 1 页 · 第 2 行",
+        "excerpt": "岗位：视唱练耳教师｜学历：硕士研究生及以上"
+      }
+    },
+    {
+      "job": "90a71ab9ef84548ebd87f44af0806b70b64a8209fcb1b81cb06e1d3aab6a0ead",
+      "notice": "https://rsc.tjcm.edu.cn/info/1266/1559.htm",
+      "data": {
+        "file": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3956574",
+        "file_name": "天津音乐学院2025年第三批公开招聘博士岗位工作人员计划表.pdf",
+        "location": "PDF 第 1 页 · 第 2 行",
+        "excerpt": "岗位：音乐学教师｜学历：博士研究生"
+      }
+    },
+    {
+      "job": "f0fe543faf721ee3712777df0392e4ba3c65e4fd2c0919073ccd6681bd5840c2",
+      "notice": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "data": {
+        "file": "https://www.zjcm.edu.cn/attachment/20260918/074ce5417a7f589b01751126343d81fb.pdf?n=2026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%89%B9%E6%AE%8A%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92",
+        "file_name": "浙江音乐学院2026年下半年特殊专业技术岗位公开招聘计划.pdf",
+        "location": "PDF 第 1 页 · 第 4 行",
+        "excerpt": "岗位：电子音乐作曲专任教师｜方向：作曲、电子音乐作曲｜学历：研究生/博士"
+      }
+    },
+    {
+      "job": "0a7b5788fe1aab607584b20ef05c064165cb690e02cc80164f533c51dcbeb9a3",
+      "notice": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "data": {
+        "file": "https://www.zjcm.edu.cn/attachment/20260918/074ce5417a7f589b01751126343d81fb.pdf?n=2026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%89%B9%E6%AE%8A%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92",
+        "file_name": "浙江音乐学院2026年下半年特殊专业技术岗位公开招聘计划.pdf",
+        "location": "PDF 第 2 页 · 第 4 行",
+        "excerpt": "岗位：戏曲作曲专任教师｜方向：艺术学、戏剧与影视、 戏曲与曲艺等相关专业｜学历：本科"
+      }
+    },
+    {
+      "job": "127806a080dc7b4f4ad32b4da2fab7595156cb3b92daa550e0e136921bd1e6db",
+      "notice": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "data": {
+        "file": "https://www.zjcm.edu.cn/attachment/20260918/074ce5417a7f589b01751126343d81fb.pdf?n=2026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%89%B9%E6%AE%8A%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92",
+        "file_name": "浙江音乐学院2026年下半年特殊专业技术岗位公开招聘计划.pdf",
+        "location": "PDF 第 2 页 · 第 5 行",
+        "excerpt": "岗位：音乐制作专任教师｜方向：作曲、电子音乐作曲、 音乐制作等相关专业｜学历：研究生/博士"
+      }
+    },
+    {
+      "job": "5cbe3465260f2de87f296ddf819c45fdbc9b431beb0287f0cb93f7c5ea9fde90",
+      "notice": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "data": {
+        "file": "https://www.zjcm.edu.cn/attachment/20260918/074ce5417a7f589b01751126343d81fb.pdf?n=2026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%89%B9%E6%AE%8A%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92",
+        "file_name": "浙江音乐学院2026年下半年特殊专业技术岗位公开招聘计划.pdf",
+        "location": "PDF 第 2 页 · 第 6 行",
+        "excerpt": "岗位：艺术与科技专任教师｜方向：艺术与科技、设计学、 声音设计、音响工程、 录音艺术、计算机科学与技术、音乐人工智能 、软件工程、数字媒体技术等相关专业｜学历：研究生/博士"
+      }
+    },
+    {
+      "job": "7501d099c32898ff1282687e7a102c07a14a64e6e8f71be9c86d8aa7cb4346fc",
+      "notice": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
+      "data": {
+        "file": "https://www.zjcm.edu.cn/attachment/20260918/074ce5417a7f589b01751126343d81fb.pdf?n=2026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%89%B9%E6%AE%8A%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92",
+        "file_name": "浙江音乐学院2026年下半年特殊专业技术岗位公开招聘计划.pdf",
+        "location": "PDF 第 2 页 · 第 7 行",
+        "excerpt": "岗位：钢琴艺术指导 （管弦方向）｜方向：钢琴演奏、钢琴艺术指导等相关专业｜学历：研究生/博士"
+      }
+    },
+    {
+      "job": "c94968a866da154889f74edc6fbfdb92b445da0c28e3a94c7a8c7aced14053fb",
+      "notice": "https://rsc.gxau.edu.cn/bmgg/content_315740",
+      "data": {
+        "file": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2026/05/13/附件1：广西艺术学院2026年公开招聘人才岗位信息表.pdf",
+        "file_name": "附件1：广西艺术学院2026年公开招聘人才岗位信息表.pdf",
+        "location": "PDF 第 1 页 · 第 2 行",
+        "excerpt": "岗位：音乐学院中国乐器演奏专任教师岗位｜方向：音乐、音乐学、音乐与舞蹈学｜学历：研究生、 博士学位"
+      }
+    },
+    {
+      "job": "3acf6df696cc5f51c1a26712a32131b5bbef742e970c9fef4a70c3f9a729a00c",
+      "notice": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
+      "data": {
+        "location": "正文表 1 · 第 15 行",
+        "excerpt": "岗位：教学科研岗｜方向：表演艺术类【音乐学、声乐、舞蹈学（编导、表演、中国古典舞等方向）、戏剧与影视学（戏剧影视表演方向）、音乐表演（钢琴演奏、管弦方向）】、艺术设计类【艺术学、艺术学理论中音乐、舞蹈、戏曲等相关方向】等相关专业"
+      }
+    },
+    {
+      "job": "ffac391cef920681c33efa6f18a54e00b02e59b116e26877bb742cfc37312ab6",
+      "notice": "https://rsc.tjcm.edu.cn/info/1266/1492.htm",
+      "data": {
+        "file": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3952523",
+        "file_name": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员计划表.pdf",
+        "location": "PDF 第 1 页 · 第 2 行",
+        "excerpt": "岗位：作曲教师｜学历：硕士研究生"
+      }
+    },
+    {
+      "job": "09a5210d750b79ea84aa5da63a8cdec5412820003c6cfd330bb6638f8856dade",
+      "notice": "https://rsc.gxau.edu.cn/rcxq/content_281013",
+      "data": {
+        "file": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171854050852.pdf",
+        "file_name": "1.广西艺术学院2022年度第一批公开招聘非实名人员控制数工作人员岗位信息表",
+        "location": "PDF 第 3 页 · 第 2 行",
+        "excerpt": "岗位：民族音乐实验室教师1｜方向：音乐与舞蹈学 （民族乐器演奏）｜学历：研究生；硕士"
+      }
+    },
+    {
+      "job": "489cb15979fa91cd68a3986364588ee2ca849edd93eb83fd19c04216ad0a2b9e",
+      "notice": "https://rsc.gxau.edu.cn/rcxq/content_281013",
+      "data": {
+        "file": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171854050852.pdf",
+        "file_name": "1.广西艺术学院2022年度第一批公开招聘非实名人员控制数工作人员岗位信息表",
+        "location": "PDF 第 3 页 · 第 3 行",
+        "excerpt": "岗位：民族音乐实验室教师2｜方向：音乐与舞蹈学 （民族乐器演奏）、音乐领域艺术硕士｜学历：研究生；硕士"
+      }
+    },
+    {
+      "job": "f3960601b9f18e76c3c65ca58c6754cb40c0b1149020b405e4a6ed4a21aefb75",
+      "notice": "https://rsc.gxau.edu.cn/rcxq/content_281012",
+      "data": {
+        "file": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171843132086.pdf",
+        "file_name": "1.广西艺术学院附属中等艺术学校2022年度公开招聘工作人员岗位信息表",
+        "location": "PDF 第 1 页 · 第 7 行",
+        "excerpt": "岗位：钢琴伴奏教师｜方向：音乐与舞蹈学｜学历：研究生；学士"
+      }
+    },
+    {
+      "job": "04bcdb2eaeecd9e4093074b3d2566185ae3bed00247ed951446b4f2f3372ac46",
+      "notice": "https://rsc.gxau.edu.cn/rcxq/content_281012",
+      "data": {
+        "file": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171843132086.pdf",
+        "file_name": "1.广西艺术学院附属中等艺术学校2022年度公开招聘工作人员岗位信息表",
+        "location": "PDF 第 1 页 · 第 10 行",
+        "excerpt": "岗位：音乐理论教师｜方向：音乐学（文化艺术管理）｜学历：本科；学士"
+      }
+    },
+    {
+      "job": "1f1b569ba2f46d0c2d88f16806cf62fa86b0b77d5b1122837d6b25abfd8cf905",
+      "notice": "https://rsc.gxau.edu.cn/rcxq/content_281012",
+      "data": {
+        "file": "https://rsc.gxau.edu.cn/upload/rsc/contentmanage/article/file/2022/05/17/202205171843132086.pdf",
+        "file_name": "1.广西艺术学院附属中等艺术学校2022年度公开招聘工作人员岗位信息表",
+        "location": "PDF 第 1 页 · 第 12 行",
+        "excerpt": "岗位：视唱练耳教师教师｜方向：音乐教育学｜学历：研究生；硕士"
+      }
+    }
+  ]
+}
