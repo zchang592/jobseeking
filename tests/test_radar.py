@@ -213,6 +213,27 @@ class Rules(unittest.TestCase):
         )
         self.assertNotEqual(result["eligibility"], "基本符合")
 
+    def test_international_credentials_are_not_assumed(self):
+        profile = {
+            "skills": ["音乐教学"],
+            "highest_degree": "硕士",
+            "teaching": ["中学音乐"],
+            "language": "中英双语授课",
+        }
+        job = {
+            "title": "Secondary Music Teacher",
+            "school": "Bilingual School Beijing",
+            "degree": "硕士及以上",
+            "stage": "中学",
+        }
+        result = analyze(job, profile)
+        self.assertEqual(result["eligibility"], "可能符合，需要核实")
+        self.assertTrue(any("国际课程经验" in item for item in result["checks"]))
+        job["title"] = "Music Teacher with Computer Science"
+        result = analyze(job, profile)
+        self.assertLessEqual(result["score"], 65)
+        self.assertTrue(any("编程" in item for item in result["checks"]))
+
     def test_government_notice_identifies_actual_school(self):
         from types import SimpleNamespace
         from radar.crawl import employer

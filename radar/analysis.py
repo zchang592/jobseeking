@@ -62,7 +62,11 @@ def analyze(job, profile=None):
         str(job.get(k) or "")
         for k in ("degree", "other", "certificate", "rank", "major", "duties")
     )
-    if re.search(r"算法|机器学习|编程|Python|C\+\+", title + " " + hard, re.I):
+    if re.search(
+        r"算法|机器学习|编程|计算机科学|Python|C\+\+|computer\s+science|programming",
+        title + " " + hard,
+        re.I,
+    ):
         checks.append("需要核实算法或编程能力，作曲和音乐 AI 经历不能替代技术要求")
         score = min(score, 65)
     if re.search(
@@ -71,6 +75,16 @@ def analyze(job, profile=None):
         r"双语|英文授课|英语授课|bilingual|english", hard + " " + title, re.I
     ):
         reasons.append("有中英双语授课基础，课程术语和国际课程经验需逐项核实")
+    context = " ".join(
+        str(job.get(k) or "")
+        for k in ("school", "school_type", "major", "duties", "other")
+    )
+    if job_category(job) == SECONDARY and re.search(
+        r"国际学校|双语学校|international school|bilingual school|\b(?:IB|IGCSE|A[- ]?level)\b",
+        context,
+        re.I,
+    ):
+        checks.append("请核实英语授课水平、国际课程经验和其他申请条件")
     degree = job.get("degree") or ""
     highest = profile.get("highest_degree", "")
     if "博士" in degree and highest != "博士":
