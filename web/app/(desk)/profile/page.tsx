@@ -10,6 +10,7 @@ export default async function Page() {
     teaching: string[];
     practice: string[];
     certificates: string[];
+    language?: string;
   }>("/profile");
   return (
     <>
@@ -37,6 +38,7 @@ export default async function Page() {
         <section className="panel">
           <SectionTitle name="教学与实践" />
           <div className="inset">
+            {p.language && <p>{p.language}</p>}
             {[...p.teaching, ...p.practice].map((e) => (
               <p key={e}>{e}</p>
             ))}

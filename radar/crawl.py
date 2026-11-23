@@ -28,7 +28,7 @@ from .net import FetchError
 from .settings import now, stamp
 
 
-PARSER_VERSION = 2
+PARSER_VERSION = 3
 
 
 def validators(headers):
@@ -203,6 +203,15 @@ def employer(src, notice_title, row):
     )
     if matches:
         school = matches[0]
+    elif src.meta.get("school_type") == "政府公开招聘" and not row.get("school_field"):
+        # The government's notice title may identify the hiring school; avoid
+        # assigning the government agency as the school itself.
+        match = re.search(
+            r"(?:20\d{2}年)?(?:春季|秋季|冬季|上半年|下半年)?"
+            r"([\u3400-\u9fff]{2,35}?(?:高级中学|初级中学|中学|第一中学|第二中学|实验学校))",
+            notice_title,
+        )
+        school = match.group(1) if match else "招聘学校待核实"
     return school
 
 
@@ -329,11 +338,13 @@ def apply_rows(db, src, notice, page, rows, errors):
             seen.add(job.identity)
             job.withdrawn = False
             # Official records take precedence over user-defined secondary sources.
-            if src.meta.get("kind") == "学校官网" or not job.data.get("official"):
+            if src.meta.get("kind") in ("学校官网", "政府官网") or not job.data.get(
+                "official"
+            ):
                 job.data = data
                 job.title = row["title"]
             job.checked = notice.checked
-        if src.meta.get("kind") == "学校官网":
+        if src.meta.get("kind") in ("学校官网", "政府官网"):
             job.data = {**job.data, "official": True}
         trace = db.get(Evidence, (job.id, notice.id))
         proof = {

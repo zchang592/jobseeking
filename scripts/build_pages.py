@@ -3,6 +3,7 @@
 import argparse
 import json
 import re
+import sys
 from collections import defaultdict
 from datetime import datetime, time
 from html import escape
@@ -11,6 +12,9 @@ from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+from radar.categories import job_category
+
 TZ = ZoneInfo("Asia/Shanghai")
 STATUSES = ("招聘中", "未开始", "已截止", "待核实")
 JOB_FIELDS = {
@@ -161,10 +165,11 @@ def listing(job, at):
         for part in (job["school"], data.get("city"), data.get("stage"))
         if part
     )
+    category = job_category({**data, "title": job["title"], "school": job["school"]})
     cutoff = display_time(data.get("deadline"))
     deadline = f"报名截止 {cutoff}" if cutoff else "截止时间未知"
     return f"""<li class="listing" {job_attributes(data)} data-school="{text(job["school"])}"
-       data-stage="{text(data.get("stage"))}" data-search="{text(search)}">
+       data-stage="{text(data.get("stage"))}" data-category="{category}" data-search="{text(search)}">
   <div class="listing-head">
     <h3><a href="jobs/{job["identity"]}/">{text(job["title"])}</a></h3>
     {job_badge(data, at)}
@@ -186,6 +191,17 @@ def homepage(jobs, verified, at, captured):
     schools = sorted({j["school"] for j in jobs})
     stages = sorted({j["data"]["stage"] for j in jobs if j["data"].get("stage")})
     active = sum(status_for(j["data"], at) == "招聘中" for j in jobs)
+    categories = (
+        ("secondary", "中学与国际学校"),
+        ("university", "高校与音乐学院"),
+        ("primary", "小学与幼教"),
+        ("other", "其他 / 学段待核实"),
+        ("all", "全部"),
+    )
+    tabs = "".join(
+        f'<a href="?category={value}#listing-title" class="category-tab" data-category-link="{value}">{label}</a>'
+        for value, label in categories
+    )
     filters = "\n".join(
         (
             select_filter("status", "状态", STATUSES),
@@ -199,7 +215,7 @@ def homepage(jobs, verified, at, captured):
         "音乐教职雷达｜公开招聘岗位",
         f"""
 <section class="hero"><h1>音乐教职雷达</h1>
-  <p>全国音乐教职公开招聘索引，收录学校公告、岗位要求和报名截止日期。</p>
+  <p>重点关注初中、高中及国际学校音乐教师机会。</p>
 </section>
 <div class="stats" aria-label="收录概况">
   <div><span>已收录岗位</span><strong>{len(jobs)}</strong></div>
@@ -209,7 +225,9 @@ def homepage(jobs, verified, at, captured):
 <section aria-labelledby="listing-title">
   <h2 id="listing-title">招聘岗位</h2>
   <p class="muted footnote">公开数据更新于 {text(display_time(captured) or "未知")}（北京时间）</p>
+  <nav class="category-tabs" aria-label="岗位分类">{tabs}</nav>
   <form class="panel" id="filters" aria-label="筛选岗位">
+    <input type="hidden" name="category" value="secondary">
     <div class="filters">
       <label>搜索岗位<input name="q" type="search" placeholder="如 作曲、钢琴、浙江音乐学院"></label>
       {filters}
@@ -217,8 +235,22 @@ def homepage(jobs, verified, at, captured):
     <div class="filter-footer"><p id="result-count" aria-live="polite">显示 {len(jobs)} 个岗位</p>
       <button type="reset">清除筛选</button></div>
   </form>
-  <p class="panel muted" id="no-results"{empty}>没有符合筛选条件的岗位。</p>
+  <p class="panel muted" id="no-results"{empty}>这个分类暂时没有符合筛选条件的岗位。请查看下方的招聘平台或选择其他分类。</p>
+  <noscript><p class="muted">当前显示全部岗位。启用 JavaScript 可按学校类别筛选。</p></noscript>
   <ul class="job-list" id="job-list">{listings}</ul>
+</section>
+<section class="panel discovery">
+  <h2>更多中学与国际学校机会</h2>
+  <p class="muted">以下入口供你自行查看和申请，实际条件及截止时间以招聘方页面为准。</p>
+  <div class="discovery-links">
+    <a href="https://www.zhipin.com/web/geek/job?query=%E9%AB%98%E4%B8%AD%E9%9F%B3%E4%B9%90%E6%95%99%E5%B8%88" target="_blank" rel="noopener noreferrer">BOSS 直聘 · 高中音乐教师 ↗</a>
+    <a href="https://www.zhipin.com/web/geek/job?query=%E5%88%9D%E4%B8%AD%E9%9F%B3%E4%B9%90%E6%95%99%E5%B8%88" target="_blank" rel="noopener noreferrer">BOSS 直聘 · 初中音乐教师 ↗</a>
+    <a href="https://www.zhipin.com/web/geek/job?query=%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E9%9F%B3%E4%B9%90%E6%95%99%E5%B8%88" target="_blank" rel="noopener noreferrer">BOSS 直聘 · 国际学校音乐教师 ↗</a>
+    <a href="https://www.tes.com/jobs/browse/music-china" target="_blank" rel="noopener noreferrer">TES · 中国音乐教师岗位 ↗</a>
+    <a href="https://wellington.avature.cn/en_GB/careers" target="_blank" rel="noopener noreferrer">惠灵顿 / 惠立学校 · 招聘官网 ↗</a>
+    <a href="https://www.isb.cn/employment" target="_blank" rel="noopener noreferrer">北京顺义国际学校 · 招聘官网 ↗</a>
+    <a href="https://www.scis-china.org/careers/employment-opportunities" target="_blank" rel="noopener noreferrer">上海长宁国际学校 · 招聘官网 ↗</a>
+  </div>
 </section>""",
     )
 

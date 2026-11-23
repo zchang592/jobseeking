@@ -159,6 +159,78 @@ class Rules(unittest.TestCase):
         text = "报名时间为2026年11月1日起，截止时间视岗位情况另行通知。"
         self.assertNotIn("deadline", notice_dates(text))
 
+    def test_middle_school_priority_and_primary_exclusion(self):
+        from radar.categories import job_category
+
+        cases = [
+            (
+                {
+                    "title": "音乐教师",
+                    "school": "江西师范大学附属中学",
+                    "stage": "高等教育",
+                },
+                "secondary",
+            ),
+            (
+                {"title": "小学音乐教师", "school": "某大学附属中学", "stage": "中学"},
+                "primary",
+            ),
+            (
+                {
+                    "title": "Junior School Music Teacher",
+                    "school": "International School",
+                },
+                "primary",
+            ),
+            (
+                {"title": "Secondary Music Teacher", "school": "International School"},
+                "secondary",
+            ),
+            (
+                {"title": "作曲教师", "school": "中央音乐学院", "stage": "高等教育"},
+                "university",
+            ),
+            (
+                {"title": "音乐教师", "school": "某艺术培训中心", "stage": "待核实"},
+                "other",
+            ),
+        ]
+        for job, expected in cases:
+            with self.subTest(job=job):
+                self.assertEqual(job_category(job), expected)
+        self.assertTrue(analyze(cases[0][0])["priority"])
+        self.assertFalse(analyze(cases[4][0])["priority"])
+
+    def test_english_music_role_and_unknown_bilingual_credentials(self):
+        from radar.extract import JOB_NOTICE, prose_rows
+
+        title = "Secondary Music Teacher"
+        text = "Teach music and direct student performances in a secondary school. " * 3
+        self.assertTrue(JOB_NOTICE.search(title))
+        self.assertEqual(prose_rows(title, text)[0]["title"], title)
+        result = analyze(
+            {"title": title, "degree": "硕士及以上", "other": "需具备IB双语教学经验"}
+        )
+        self.assertNotEqual(result["eligibility"], "基本符合")
+
+    def test_government_notice_identifies_actual_school(self):
+        from types import SimpleNamespace
+        from radar.crawl import employer
+
+        source = SimpleNamespace(meta={"school_type": "政府公开招聘"}, name="省人社厅")
+        self.assertEqual(
+            employer(
+                source,
+                "2027年福建省福州第一中学校园公开招聘教师方案",
+                {"title": "音乐教师"},
+            ),
+            "福建省福州第一中学",
+        )
+        self.assertEqual(
+            employer(source, "事业单位教师招聘公告", {"title": "音乐教师"}),
+            "招聘学校待核实",
+        )
+
     def test_degree_specific_deadlines(self):
         text = "报名时间：招聘博士研究生、高级职称岗位，公告发布之日至2026年12月31日，招满即停。招聘硕士研究生岗位，报名时间：2026年5月13日至5月21日。"
         data = notice_dates(text)
@@ -344,7 +416,12 @@ class Workflow(unittest.TestCase):
         with Sessions.begin() as db:
             job = db.scalar(select(Job).where(Job.title == "教学岗"))
             end = (now().date() + timedelta(days=7)).isoformat()
-            job.data = {**job.data, "starts": now().date().isoformat(), "deadline": end}
+            job.data = {
+                **job.data,
+                "stage": "中学",
+                "starts": now().date().isoformat(),
+                "deadline": end,
+            }
         env = {
             "SMTP_HOST": "smtp.example.invalid",
             "SMTP_FROM": "from@example.invalid",

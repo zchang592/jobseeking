@@ -18,6 +18,12 @@ class PublicPagesTests(unittest.TestCase):
             state.write_text(json.dumps(snapshot), encoding="utf-8")
             site = Path(temp) / "site"
             self.assertGreaterEqual(build(state, site), 35)
+            homepage = (site / "index.html").read_text(encoding="utf-8")
+            self.assertIn('name="category" value="secondary"', homepage)
+            self.assertIn('data-category="secondary"', homepage)
+            self.assertIn('data-category="university"', homepage)
+            self.assertIn("BOSS 直聘", homepage)
+            self.assertIn("TES · 中国音乐教师岗位", homepage)
             self.assertTrue((site / ".nojekyll").is_file())
             self.assertTrue((site / "sources/index.html").is_file())
             self.assertEqual(

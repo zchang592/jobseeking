@@ -17,7 +17,8 @@ from lxml import html
 from .analysis import directions
 
 JOB_NOTICE = re.compile(
-    r"招聘|公开选聘|诚聘|选聘教师|人才引进|引进人才|招募教师|延长.*报名"
+    r"招聘|公开选聘|诚聘|选聘教师|人才引进|引进人才|招募教师|延长.*报名|music\s+teacher|teacher\s+of\s+music|music\s+educator|director\s+of\s+music",
+    re.I,
 )
 IGNORE = re.compile(
     r"拟聘|拟录|录用|招聘会|宣讲会|招聘系统|报名系统|招聘网站|毕业生就业|拟入|候选人|进面|复审|面试(?:工作安排|成绩|名单|安排|通知|公告)|笔试(?:结果|通知|安排|公告|成绩)|非教学岗位|(?:参加笔试|参加面试|进入面试).{0,12}名单|后续考核安排|考试(?:工作安排|安排|结果|通知)|考核(?:成绩|日程)|体检|体测|排名|成绩公示|结果公示|应聘须知|工作纪实|喜报|博士后|科研助理|辅导员|党政管理"
@@ -388,7 +389,11 @@ def prose_rows(title, text, location="公告正文"):
     if not rows and 0 < len(title) < 110:
         role = re.sub(r"岗位招聘公告.*|招聘公告.*|招聘简章.*", "", title)
         if (
-            re.search("教师|讲师|艺术指导|伴奏", role)
+            re.search(
+                r"教师|讲师|艺术指导|伴奏|music\s+teacher|teacher\s+of\s+music|music\s+educator",
+                role,
+                re.I,
+            )
             and directions(role_text(role, "", ""))
             and len(text) >= 80
         ):

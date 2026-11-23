@@ -89,3 +89,10 @@ dd { margin: 0; overflow-wrap: anywhere; white-space: pre-line; }
   .stats strong { font-size: 1.15rem; }
   .topbar nav { font-size: .78rem; }
 }
+.category-tabs { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
+.category-tab { padding: .38rem .8rem; border-radius: 30px; text-decoration: none; font-size: .85rem; border: 1px solid var(--line); background: white; color: var(--muted); }
+.category-tab[aria-current="page"] { background: var(--pine); border-color: var(--pine); color: white; font-weight: 700; }
+.discovery { margin-top: 1.5rem; }
+.discovery p { margin: .25rem 0 .9rem; }
+.discovery-links { display: flex; flex-wrap: wrap; gap: .65rem 1.2rem; }
+.discovery-links a { font-size: .9rem; text-underline-offset: .2em; }

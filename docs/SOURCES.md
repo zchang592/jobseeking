@@ -25,3 +25,9 @@
 | [西安音乐学院](https://www.xacom.edu.cn/1843/list.htm) | 陕西 · 西安 | 待核实 · robots.txt 返回 403 |
 | [沈阳音乐学院](https://www.sycm.edu.cn/info.aspx?DWid=54) | 辽宁 · 沈阳 | 待核实 · robots.txt 返回 403 |
 | [哈尔滨音乐学院](https://www.hrbcm.edu.cn/) | 黑龙江 · 哈尔滨 | 待核实 · 官网连接超时 |
+
+
+## 2026 年 11 月 23 日新增来源
+
+- [福建省人力资源和社会保障厅招聘方案](https://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/)已接入。当前栏目可读取，已核验附属中学招聘公告，未在本次核验中提取到新的音乐岗位。
+- [中国人民大学附属中学招聘栏目](https://www.rdfz.cn/zszp/zpxx.htm)已接入。页面可访问，本次没有识别到符合条件的招聘公告，继续等待后续更新。

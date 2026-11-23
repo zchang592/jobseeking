@@ -27,7 +27,7 @@ export default async function Home() {
   }).format(new Date(d.date + "T12:00:00+08:00"));
   const cards = [
     {
-      title: "今日新发现",
+      title: "中学今日新发现",
       n: d.new,
       icon: ScanLine,
       href: "/jobs?view=new",
@@ -35,7 +35,7 @@ export default async function Home() {
       unit: "个岗位",
     },
     {
-      title: "正在招聘",
+      title: "中学正在招聘",
       n: d.open,
       icon: Layers3,
       href: "/jobs?status=招聘中",
@@ -43,7 +43,7 @@ export default async function Home() {
       unit: "个岗位",
     },
     {
-      title: "高匹配可申请",
+      title: "中学高匹配",
       n: d.high,
       icon: Crosshair,
       href: "/jobs?view=recommended",
@@ -51,7 +51,7 @@ export default async function Home() {
       unit: "个岗位",
     },
     {
-      title: "七天内截止",
+      title: "中学七天内截止",
       n: d.soon,
       icon: Timer,
       href: "/jobs?view=soon",
@@ -71,7 +71,7 @@ export default async function Home() {
             <span className="broadcast" />
             <span>监测工作台</span>
           </div>
-          <h2>全国音乐教职监测</h2>
+          <h2>中学与国际学校音乐教职</h2>
           <div className="hero-data">
             <span>
               <RadioTower size={15} />

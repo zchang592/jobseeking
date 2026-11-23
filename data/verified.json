@@ -1,6 +1,20 @@
 {
-  "captured": "2026-11-20T23:17:43+08:00",
+  "captured": "2026-11-23T15:43:16+08:00",
   "sources": [
+    {
+      "url": "https://hr.ccnu.edu.cn/rczp.htm",
+      "attempted": "2026-11-23T15:42:45+08:00",
+      "succeeded": "2026-11-23T15:42:55+08:00",
+      "sample": "https://hr.ccnu.edu.cn/info/1030/12556.htm",
+      "issue": "报名表.docx：链接返回网页，未取得附件文件",
+      "counts": {
+        "candidates": 2,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
     {
       "url": "https://job.shcmusic.edu.cn/",
       "attempted": null,
@@ -10,7 +24,219 @@
       "counts": {}
     },
     {
-      "url": "https://www.xhcom.edu.cn/",
+      "url": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "attempted": "2026-11-23T15:42:19+08:00",
+      "succeeded": "2026-11-23T15:42:27+08:00",
+      "sample": "https://music.cuhk.edu.cn/taxonomy/term/146",
+      "issue": null,
+      "counts": {
+        "candidates": 1,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "attempted": "2026-11-23T15:42:40+08:00",
+      "succeeded": "2026-11-23T15:42:45+08:00",
+      "sample": "https://rsc.ahnu.edu.cn/info/1039/4529.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 9,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "attempted": "2026-11-23T15:42:55+08:00",
+      "succeeded": "2026-11-23T15:43:11+08:00",
+      "sample": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 4,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.gxau.edu.cn/",
+      "attempted": "2026-11-23T15:42:22+08:00",
+      "succeeded": "2026-11-20T23:15:47+08:00",
+      "sample": "https://rsc.gxau.edu.cn/rcxq/content_281013",
+      "issue": "标题：广西艺术学院2026年公开招聘人才公告点击数：4960 发表时间：连接失败：ReadTimeout",
+      "counts": {
+        "candidates": 11,
+        "read": 0,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
+    {
+      "url": "https://rsc.hznu.edu.cn/rczp/",
+      "attempted": "2026-11-23T15:43:03+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "杭州师范大学2026年上半年公开招聘教学科研人员公告：robots.txt 无法核实（HTTP 503），暂停访问",
+      "counts": {
+        "candidates": 9,
+        "read": 0,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/",
+      "attempted": "2026-11-23T15:42:22+08:00",
+      "succeeded": "2026-11-23T15:43:08+08:00",
+      "sample": "https://www.jxnu.edu.cn/2026/0117/c13127a289644/page.htm",
+      "issue": "附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
+      "counts": {
+        "candidates": 5,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
+    {
+      "url": "https://rsc.nua.edu.cn/",
+      "attempted": "2026-11-23T15:42:55+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "南京艺术学院高层次人才引进和管理规定（修订）：正文不完整或需要访问验证",
+      "counts": {
+        "candidates": 1,
+        "read": 0,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/",
+      "attempted": "2026-11-23T15:42:27+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "May 27 山东师范大学2026年公开招聘人员公告：正文不完整或需要访问验证",
+      "counts": {
+        "candidates": 3,
+        "read": 0,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/",
+      "attempted": "2026-11-23T15:42:34+08:00",
+      "succeeded": "2026-11-23T15:42:40+08:00",
+      "sample": "https://rsc.snnu.edu.cn/info/1070/11708.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 4,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "attempted": "2026-11-23T15:42:12+08:00",
+      "succeeded": "2026-11-23T15:42:22+08:00",
+      "sample": "https://rsc.tjcm.edu.cn/info/1266/1600.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 10,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/",
+      "attempted": "2026-11-23T15:41:58+08:00",
+      "succeeded": "2026-11-23T15:42:09+08:00",
+      "sample": "https://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/",
+      "issue": null,
+      "counts": {
+        "candidates": 6,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://www.ccmusic.edu.cn/xxgk/xxgg/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "attempted": "2026-11-23T15:41:58+08:00",
+      "succeeded": "2026-11-23T15:42:11+08:00",
+      "sample": "https://www.ccom.edu.cn/info/5301/269111.htm",
+      "issue": null,
+      "counts": {
+        "candidates": 7,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://www.hrbcm.edu.cn/",
+      "attempted": null,
+      "succeeded": null,
+      "sample": null,
+      "issue": null,
+      "counts": {}
+    },
+    {
+      "url": "https://www.rdfz.cn/zszp/zpxx.htm",
+      "attempted": "2026-11-23T15:41:58+08:00",
+      "succeeded": null,
+      "sample": null,
+      "issue": "栏目可访问，本页未识别到可核验的招聘公告",
+      "counts": {
+        "candidates": 0,
+        "read": 0,
+        "skipped": 0,
+        "new": 0,
+        "errors": 1
+      }
+    },
+    {
+      "url": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
+      "attempted": "2026-11-23T15:42:09+08:00",
+      "succeeded": "2026-11-23T15:42:19+08:00",
+      "sample": "https://www.sccm.edu.cn/dz_dwjsgzb/show-138.html",
+      "issue": null,
+      "counts": {
+        "candidates": 2,
+        "read": 1,
+        "skipped": 0,
+        "new": 0,
+        "errors": 0
+      }
+    },
+    {
+      "url": "https://www.sycm.edu.cn/info.aspx?DWid=54",
       "attempted": null,
       "succeeded": null,
       "sample": null,
@@ -26,14 +252,6 @@
       "counts": {}
     },
     {
-      "url": "https://www.ccmusic.edu.cn/xxgk/xxgg/",
-      "attempted": null,
-      "succeeded": null,
-      "sample": null,
-      "issue": null,
-      "counts": {}
-    },
-    {
       "url": "https://www.xacom.edu.cn/1843/list.htm",
       "attempted": null,
       "succeeded": null,
@@ -42,230 +260,53 @@
       "counts": {}
     },
     {
-      "url": "https://www.sycm.edu.cn/info.aspx?DWid=54",
+      "url": "https://www.xhcom.edu.cn/",
       "attempted": null,
       "succeeded": null,
       "sample": null,
       "issue": null,
       "counts": {}
-    },
-    {
-      "url": "https://www.hrbcm.edu.cn/",
-      "attempted": null,
-      "succeeded": null,
-      "sample": null,
-      "issue": null,
-      "counts": {}
-    },
-    {
-      "url": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
-      "attempted": "2026-11-20T23:15:09+08:00",
-      "succeeded": "2026-11-20T23:13:17+08:00",
-      "sample": "https://www.ccom.edu.cn/info/5301/234951.htm",
-      "issue": null,
-      "counts": {
-        "candidates": 7,
-        "read": 0,
-        "skipped": 7,
-        "new": 0,
-        "errors": 0
-      }
     },
     {
       "url": "https://www.zjcm.edu.cn/zyxw/tzgg/",
-      "attempted": "2026-11-20T23:15:09+08:00",
-      "succeeded": "2026-11-20T23:15:18+08:00",
+      "attempted": "2026-11-23T15:42:07+08:00",
+      "succeeded": "2026-11-23T15:42:22+08:00",
       "sample": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
       "issue": null,
       "counts": {
         "candidates": 1,
-        "read": 0,
-        "skipped": 1,
+        "read": 1,
+        "skipped": 0,
         "new": 0,
         "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.nua.edu.cn/",
-      "attempted": "2026-11-20T23:15:20+08:00",
-      "succeeded": null,
-      "sample": null,
-      "issue": "南京艺术学院高层次人才引进和管理规定（修订）：正文不完整或需要访问验证",
-      "counts": {
-        "candidates": 1,
-        "read": 0,
-        "skipped": 1,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.hznu.edu.cn/rczp/",
-      "attempted": "2026-11-20T23:15:12+08:00",
-      "succeeded": null,
-      "sample": null,
-      "issue": "杭州师范大学2024年公开招聘心理咨询师公告：robots.txt 无法核实（HTTP 503），暂停访问；杭州师范大学2024年下半年公开招聘教学科研人员公告：robots.txt 无法核实（HTTP 503），暂停访问；杭州师范大学2024年公开招聘专业技术人员公告：robots.txt 无法核实（HTTP 503），暂停访问；杭州师范大学公开选聘工学院院长公告：连接失败：ReadTimeout",
-      "counts": {
-        "candidates": 9,
-        "read": 0,
-        "skipped": 9,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
-      "attempted": "2026-11-20T23:15:18+08:00",
-      "succeeded": "2026-11-20T23:15:22+08:00",
-      "sample": "https://rsc.tjcm.edu.cn/info/1266/1492.htm",
-      "issue": null,
-      "counts": {
-        "candidates": 10,
-        "read": 0,
-        "skipped": 10,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.fjnu.edu.cn/rczp/list.htm",
-      "attempted": "2026-11-20T23:15:25+08:00",
-      "succeeded": "2026-11-20T23:09:16+08:00",
-      "sample": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
-      "issue": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc：该格式尚需人工读取；附件1：福建师大附中招聘报名二维码.doc：该格式尚需人工读取；附件2：福建师大附中招聘登记表.doc：该格式尚需人工读取；福建师范大学离退休工作办公室2026年招聘校内退休人员方案：正文不完整或需要访问验证",
-      "counts": {
-        "candidates": 4,
-        "read": 0,
-        "skipped": 4,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.sdnu.edu.cn/",
-      "attempted": "2026-11-20T23:15:09+08:00",
-      "succeeded": null,
-      "sample": null,
-      "issue": "May 27 山东师范大学2026年公开招聘人员公告：正文不完整或需要访问验证；Apr 22 山东师范大学附属小学2026年第二批公开招聘人员公告：正文不完整或需要访问验证；Apr 22 山东师范大学第二附属中学2026年第二批公开招聘人员公告：正文不完整或需要访问验证",
-      "counts": {
-        "candidates": 3,
-        "read": 0,
-        "skipped": 3,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://hr.ccnu.edu.cn/rczp.htm",
-      "attempted": "2026-11-20T23:15:18+08:00",
-      "succeeded": "2026-11-20T23:09:10+08:00",
-      "sample": "https://hr.ccnu.edu.cn/info/1031/12196.htm",
-      "issue": "报名表.docx：File is not a zip file",
-      "counts": {
-        "candidates": 5,
-        "read": 0,
-        "skipped": 5,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.snnu.edu.cn/",
-      "attempted": "2026-11-20T23:15:22+08:00",
-      "succeeded": "2026-11-20T23:15:26+08:00",
-      "sample": "https://rsc.snnu.edu.cn/info/1070/11708.htm",
-      "issue": null,
-      "counts": {
-        "candidates": 4,
-        "read": 0,
-        "skipped": 4,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://music.cuhk.edu.cn/taxonomy/term/146",
-      "attempted": "2026-11-20T23:15:13+08:00",
-      "succeeded": "2026-11-20T23:15:20+08:00",
-      "sample": "https://music.cuhk.edu.cn/taxonomy/term/146",
-      "issue": null,
-      "counts": {
-        "candidates": 1,
-        "read": 0,
-        "skipped": 1,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "attempted": "2026-11-20T23:15:32+08:00",
-      "succeeded": "2026-11-20T23:13:45+08:00",
-      "sample": "https://rsc.ahnu.edu.cn/info/1039/1077.htm",
-      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取；附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
-      "counts": {
-        "candidates": 9,
-        "read": 0,
-        "skipped": 9,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
-      "attempted": "2026-11-20T23:15:26+08:00",
-      "succeeded": "2026-11-20T23:08:21+08:00",
-      "sample": "https://www.sccm.edu.cn/dz_dwjsgzb/show-138.html",
-      "issue": "附件1：四川音乐学院2026年招聘第二批编外助学助管员岗位和条件要求一览表.xlsx：工作表超出大小限制",
-      "counts": {
-        "candidates": 2,
-        "read": 0,
-        "skipped": 2,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.jxnu.edu.cn/",
-      "attempted": "2026-11-20T23:15:28+08:00",
-      "succeeded": "2026-11-20T23:10:15+08:00",
-      "sample": "https://www.jxnu.edu.cn/2026/0117/c13127a289644/page.htm",
-      "issue": "附件4：学科专业目录汇编.pdf：文件超出采集大小上限；附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc：该格式尚需人工读取；附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc：该格式尚需人工读取；附件4：学科专业目录汇编.pdf：文件超出采集大小上限；江西师范大学流动化学与工程研究院高层次人才招聘公告：正文不完整或需要访问验证；附件1：招聘岗位及条件.doc：该格式尚需人工读取；附件2：学科专业目录汇编.pdf：PDF 页数过多",
-      "counts": {
-        "candidates": 5,
-        "read": 0,
-        "skipped": 5,
-        "new": 0,
-        "errors": 0
-      }
-    },
-    {
-      "url": "https://rsc.gxau.edu.cn/",
-      "attempted": "2026-11-20T23:15:30+08:00",
-      "succeeded": "2026-11-20T23:15:47+08:00",
-      "sample": "https://rsc.gxau.edu.cn/rcxq/content_281013",
-      "issue": "202205171844430960.doc：该格式尚需人工读取",
-      "counts": {
-        "candidates": 12,
-        "read": 2,
-        "skipped": 10,
-        "new": 3,
-        "errors": 1
       }
     }
   ],
   "notices": [
     {
+      "url": "https://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/",
+      "title": "事业单位公开招聘_最新专题_福建省人力资源和社会保障厅",
+      "checked": "2026-11-23T15:42:09+08:00",
+      "issue": null,
+      "source": "https://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
       "url": "https://www.ccom.edu.cn/info/5301/269111.htm",
       "title": "中央音乐学院校园管理处岗位招聘公告",
-      "checked": "2026-11-20T23:08:15+08:00",
+      "checked": "2026-11-23T15:42:11+08:00",
       "issue": null,
       "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
       "digest": null,
       "data": {
         "attachments": [],
         "snapshot": true,
-        "snapshot_verified": false
+        "snapshot_verified": true
       }
     },
     {
@@ -365,9 +406,35 @@
       }
     },
     {
+      "url": "https://www.ccom.edu.cn/info/5301/234951.htm",
+      "title": "中央音乐学院2024年度校园建设与管理处学生公寓宿舍管理岗位招聘公告",
+      "checked": "2026-11-20T23:13:15+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://www.ccom.edu.cn/info/5301/233041.htm",
+      "title": "中央音乐学院2024年度校园建设与管理处岗位招聘公告",
+      "checked": "2026-11-20T23:13:17+08:00",
+      "issue": null,
+      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
       "url": "https://www.zjcm.edu.cn/zyxw/tzgg/202609/75914.html",
       "title": "浙江音乐学院关于开展2026年下半年特殊专业技术岗位公开招聘工作的通知",
-      "checked": "2026-11-20T23:08:38+08:00",
+      "checked": "2026-11-23T15:42:22+08:00",
       "issue": null,
       "source": "https://www.zjcm.edu.cn/zyxw/tzgg/",
       "digest": null,
@@ -386,7 +453,7 @@
     {
       "url": "https://www.sccm.edu.cn/dz_dwjsgzb/show-138.html",
       "title": "四川音乐学院2026年下半年公开招聘工作人员公告",
-      "checked": "2026-11-20T23:08:17+08:00",
+      "checked": "2026-11-23T15:42:19+08:00",
       "issue": null,
       "source": "https://www.sccm.edu.cn/dz_dwjsgzb/list-135.html",
       "digest": null,
@@ -440,7 +507,7 @@
     {
       "url": "https://rsc.tjcm.edu.cn/info/1266/1600.htm",
       "title": "天津音乐学院附属中等音乐学校2026年第一批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
-      "checked": "2026-11-20T23:08:19+08:00",
+      "checked": "2026-11-23T15:42:22+08:00",
       "issue": null,
       "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
       "digest": null,
@@ -453,7 +520,7 @@
           }
         ],
         "snapshot": true,
-        "snapshot_verified": false
+        "snapshot_verified": true
       }
     },
     {
@@ -471,19 +538,6 @@
             "name": "天津音乐学院2026年第二批公开招聘硕士及以上岗位工作人员计划表.pdf"
           }
         ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2026/art_68b057fefa714979b93546d1cdea64a3.html",
-      "title": "杭州师范大学2026年上半年公开招聘教学科研人员公告",
-      "checked": "2026-11-20T23:09:21+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
         "snapshot": true,
         "snapshot_verified": false
       }
@@ -546,9 +600,104 @@
       }
     },
     {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1517.htm",
+      "title": "天津音乐学院2025年第一批公开招聘博士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:30+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953767",
+            "type": "pdf",
+            "name": "天津音乐学院2025年第一批公开招聘博士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1520.htm",
+      "title": "天津音乐学院附属中等音乐学校2025年第一批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:22+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953812",
+            "type": "pdf",
+            "name": "天津音乐学院附属中等音乐学校2025年第一批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1519.htm",
+      "title": "天津音乐学院2025年第二批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:26+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953811",
+            "type": "pdf",
+            "name": "天津音乐学院2025年第二批公开招聘硕士及以上岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1492.htm",
+      "title": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:34+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3952523",
+            "type": "pdf",
+            "name": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.tjcm.edu.cn/info/1266/1480.htm",
+      "title": "天津音乐学院2024年第三批公开招聘硕士岗位工作人员方案-党委教师工作部",
+      "checked": "2026-11-20T23:13:41+08:00",
+      "issue": null,
+      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3951700",
+            "type": "pdf",
+            "name": "天津音乐学院2024年第三批公开招聘硕士岗位工作人员计划表.pdf"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
       "url": "https://music.cuhk.edu.cn/taxonomy/term/146",
       "title": "教职岗位 · 香港中文大学（深圳）音乐学院",
-      "checked": "2026-11-20T23:08:31+08:00",
+      "checked": "2026-11-23T15:42:27+08:00",
       "issue": null,
       "source": "https://music.cuhk.edu.cn/taxonomy/term/146",
       "digest": null,
@@ -561,8 +710,8 @@
     {
       "url": "https://rsc.gxau.edu.cn/bmgg/content_315740",
       "title": "广西艺术学院2026年公开招聘人才公告_部门公告_广西艺术学院人事处",
-      "checked": "2026-11-20T23:08:43+08:00",
-      "issue": null,
+      "checked": "2026-11-23T15:42:55+08:00",
+      "issue": "连接失败：ReadTimeout",
       "source": "https://rsc.gxau.edu.cn/",
       "digest": null,
       "data": {
@@ -685,19 +834,6 @@
       }
     },
     {
-      "url": "https://hrss.hangzhou.gov.cn/art/2024/11/14/art_1229782005_4313743.html",
-      "title": "杭州师范大学2024年公开招聘心理咨询师公告",
-      "checked": "2026-11-20T23:14:15+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
       "url": "https://rsc.gxau.edu.cn/bmgg/content_304970",
       "title": "广西艺术学院2024年度公开招聘教职人员控制数工作人员公告_部门公告_广西艺术学院人事处",
       "checked": "2026-11-20T23:09:11+08:00",
@@ -722,626 +858,6 @@
             "name": "附件3：广西艺术学院公开招聘报名操作手册.docx"
           }
         ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.jxnu.edu.cn/2026/0715/c2860a296462/page.htm",
-      "title": "江西师范大学附属中学（高新校区）2026年教师公开招聘公告",
-      "checked": "2026-11-20T23:09:13+08:00",
-      "issue": "附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
-      "source": "https://rsc.jxnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/78c5a747-01c1-489e-82cc-79c0440dfd32.docx",
-            "type": "docx",
-            "name": "附件1：江西师范大学附属中学（高新校区）2026年公开招聘教师岗位表.docx"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/52c72bcc-b6b5-436d-9908-e24439dcd30b.docx",
-            "type": "docx",
-            "name": "附件2：江西师范大学附属中学（高新校区）2026年公开招聘教师报考指南.docx"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/41234556-3ee1-4669-ba04-e11d68abfad8.docx",
-            "type": "docx",
-            "name": "附件3：江西师范大学附属中学（高新校区）应聘人员近亲属报告承诺书.docx"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/d887f348-c559-4e7d-9b69-ddaf50a73bde.pdf",
-            "type": "pdf",
-            "name": "附件4：学科专业目录汇编.pdf",
-            "error": "文件超出采集大小上限"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.jxnu.edu.cn/2026/0707/c2860a296213/page.htm",
-      "title": "江西师范大学及附属中学2026年公开招聘工作人员公告",
-      "checked": "2026-11-20T23:09:49+08:00",
-      "issue": "附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc：该格式尚需人工读取；附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc：该格式尚需人工读取；附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
-      "source": "https://rsc.jxnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/50c35dcb-0f0c-4500-aab1-5c650f90b1a3.docx",
-            "type": "docx",
-            "name": "附件1：江西师范大学及附属中学2026年公开招聘工作人员岗位表.docx"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/8a3e9612-4e37-439e-abf7-5b8ec7a759ba.doc",
-            "type": "doc",
-            "name": "附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc",
-            "error": "该格式尚需人工读取"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/2d960bfd-857c-4c1e-b026-b14e335de720.doc",
-            "type": "doc",
-            "name": "附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc",
-            "error": "该格式尚需人工读取"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/7927ddf1-a8e4-485c-abe5-c2bbdc3e5a59.pdf",
-            "type": "pdf",
-            "name": "附件4：学科专业目录汇编.pdf",
-            "error": "文件超出采集大小上限"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.jxnu.edu.cn/2026/0402/c2860a291570/page.htm",
-      "title": "江西师范大学流动化学与工程研究院高层次人才招聘公告",
-      "checked": "2026-11-20T23:09:51+08:00",
-      "issue": "正文不完整或需要访问验证",
-      "source": "https://rsc.jxnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://www.jxnu.edu.cn/2026/0117/c13127a289644/page.htm",
-      "title": "江西师范大学2026年高层次人才招聘公告",
-      "checked": "2026-11-20T23:09:59+08:00",
-      "issue": null,
-      "source": "https://rsc.jxnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/32b72d2c-b0cf-41c6-aaaa-bb4ff4969716.docx",
-            "type": "docx",
-            "name": "附件1.江西师范大学2026年高层次人才招聘岗位表.docx"
-          },
-          {
-            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/00bcbd8d-a14f-43fb-ac16-545582f6cf3f.docx",
-            "type": "docx",
-            "name": "附件2.江西师范大学高层次人才招聘报名表.docx"
-          },
-          {
-            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/51bf09c8-c779-45aa-a777-7ff98c42e4bd.docx",
-            "type": "docx",
-            "name": "附件3.江西师范大学应聘人员近亲属报告承诺书.docx"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/t20261023_7239842.htm",
-      "title": "2026年秋季福建师范大学附属中学校园公开招聘教师方案 _ 招聘方案 _ 省人社厅",
-      "checked": "2026-11-20T23:09:16+08:00",
-      "issue": "附件1：福建师大附中招聘报名二维码.doc：该格式尚需人工读取；附件2：福建师大附中招聘登记表.doc：该格式尚需人工读取",
-      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564298961647.doc",
-            "type": "doc",
-            "name": "附件1：福建师大附中招聘报名二维码.doc",
-            "error": "该格式尚需人工读取"
-          },
-          {
-            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299291724.doc",
-            "type": "doc",
-            "name": "附件2：福建师大附中招聘登记表.doc",
-            "error": "该格式尚需人工读取"
-          },
-          {
-            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299594760.xls",
-            "type": "xls",
-            "name": "附件3 ：加分申请表.xls"
-          },
-          {
-            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299859554.docx",
-            "type": "docx",
-            "name": "附件4：诚信考试承诺书.docx"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.fjnu.edu.cn/dd/a9/c9980a449961/page.htm",
-      "title": "福建师范大学离退休工作办公室2026年招聘校内退休人员方案",
-      "checked": "2026-11-20T23:09:25+08:00",
-      "issue": "正文不完整或需要访问验证",
-      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.jxnu.edu.cn/2025/0802/c2860a276278/page.htm",
-      "title": "江西师范大学数字产业学院硕士师资公开招聘公告",
-      "checked": "2026-11-20T23:10:15+08:00",
-      "issue": "附件1：招聘岗位及条件.doc：该格式尚需人工读取；附件2：学科专业目录汇编.pdf：PDF 页数过多",
-      "source": "https://rsc.jxnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/9c1e2a09-d71e-465b-94ea-5543ac86654b.doc",
-            "type": "doc",
-            "name": "附件1：招聘岗位及条件.doc",
-            "error": "该格式尚需人工读取"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/19345d4d-8b16-4a0c-a198-a4e3178213a0.pdf",
-            "type": "pdf",
-            "name": "附件2：学科专业目录汇编.pdf",
-            "error": "PDF 页数过多"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/edf084f6-706d-4fa5-a6a5-ddd1e5a87d12.docx",
-            "type": "docx",
-            "name": "附件3：《江西师范大学数字产业学院硕士师资岗位应聘报名表》.docx"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/df58f24d-8e03-45d2-a0cb-2eacb99a5658.xlsx",
-            "type": "xlsx",
-            "name": "附件4：《江西师范大学数字产业学院硕士师资岗位应聘人员基本情况汇总表》.xlsx"
-          },
-          {
-            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/8d114f5d-9478-4fc9-b764-f18af1675f92.docx",
-            "type": "docx",
-            "name": "附件5：应聘人员近亲属报告承诺书.docx"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.sdnu.edu.cn/info/1004/5833.htm",
-      "title": "May 27 山东师范大学2026年公开招聘人员公告",
-      "checked": "2026-11-20T23:08:40+08:00",
-      "issue": "正文不完整或需要访问验证",
-      "source": "https://rsc.sdnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.sdnu.edu.cn/info/1004/5773.htm",
-      "title": "Apr 22 山东师范大学附属小学2026年第二批公开招聘人员公告",
-      "checked": "2026-11-20T23:08:41+08:00",
-      "issue": "正文不完整或需要访问验证",
-      "source": "https://rsc.sdnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.sdnu.edu.cn/info/1004/5763.htm",
-      "title": "Apr 22 山东师范大学第二附属中学2026年第二批公开招聘人员公告",
-      "checked": "2026-11-20T23:08:43+08:00",
-      "issue": "正文不完整或需要访问验证",
-      "source": "https://rsc.sdnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.snnu.edu.cn/info/1070/11708.htm",
-      "title": "陕西师范大学2027年心理健康教育教师招聘公告",
-      "checked": "2026-11-20T23:08:43+08:00",
-      "issue": null,
-      "source": "https://rsc.snnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.snnu.edu.cn/info/1070/11048.htm",
-      "title": "附属小学2026年学科高层次人才岗位招聘公告",
-      "checked": "2026-11-20T23:08:45+08:00",
-      "issue": null,
-      "source": "https://rsc.snnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.snnu.edu.cn/info/1070/10858.htm",
-      "title": "附属中学2026年学科竞赛人才计划岗位招聘公告",
-      "checked": "2026-11-20T23:08:46+08:00",
-      "issue": null,
-      "source": "https://rsc.snnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.snnu.edu.cn/info/1070/10728.htm",
-      "title": "附属中学2026年学科骨干人才计划岗位招聘公告",
-      "checked": "2026-11-20T23:08:47+08:00",
-      "issue": null,
-      "source": "https://rsc.snnu.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/4529.htm",
-      "title": "安徽师范大学2025年度“人事代理”岗位招聘公告-人力资源部",
-      "checked": "2026-11-20T23:08:48+08:00",
-      "issue": null,
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/2950.htm",
-      "title": "关于发布我校2022年人才招聘计划的公告-人力资源部",
-      "checked": "2026-11-20T23:08:49+08:00",
-      "issue": null,
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1080.htm",
-      "title": "安徽师范大学2013年诚聘优秀人才公告-人力资源部",
-      "checked": "2026-11-20T23:08:50+08:00",
-      "issue": "20130122154433_19147.zip：该格式尚需人工读取",
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.ahnu.edu.cn/__local/5/C4/A7/332F2C878FF9A3970E97672666E_FF63021C_829D.zip?e=.zip",
-            "type": "zip",
-            "name": "20130122154433_19147.zip",
-            "error": "该格式尚需人工读取"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1079.htm",
-      "title": "安徽师范大学附属幼儿园2012年招聘优秀教师公告-人力资源部",
-      "checked": "2026-11-20T23:08:52+08:00",
-      "issue": null,
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1078.htm",
-      "title": "安徽师范大学2012年毕业生招聘公示（第三批）-人力资源部",
-      "checked": "2026-11-20T23:08:54+08:00",
-      "issue": null,
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hr.ccnu.edu.cn/info/1030/12556.htm",
-      "title": "未来科学与工程研究院校内公开招聘工作人员公告",
-      "checked": "2026-11-20T23:09:05+08:00",
-      "issue": "报名表.docx：File is not a zip file",
-      "source": "https://hr.ccnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://hr.ccnu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1887159177&wbfileid=8347835ABC259671D807D34C728FFA65",
-            "type": "docx",
-            "name": "报名表.docx",
-            "error": "File is not a zip file"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hr.ccnu.edu.cn/info/1031/12196.htm",
-      "title": "华中师范大学2026年附小教师招聘参加笔试人员名单及后续考核安排",
-      "checked": "2026-11-20T23:09:06+08:00",
-      "issue": null,
-      "source": "https://hr.ccnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://hr.ccnu.edu.cn/info/1031/12186.htm",
-      "title": "华中师范大学2026年专业技术人员招聘参加笔试人员名单及后续考核安排",
-      "checked": "2026-11-20T23:09:07+08:00",
-      "issue": null,
-      "source": "https://hr.ccnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hr.ccnu.edu.cn/info/1031/12176.htm",
-      "title": "华中师范大学2026年校医院内科医师招聘参加笔试人员名单及后续考核安排",
-      "checked": "2026-11-20T23:09:09+08:00",
-      "issue": null,
-      "source": "https://hr.ccnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hr.ccnu.edu.cn/info/1031/12126.htm",
-      "title": "华中师范大学2026年校医院招聘参加初试人员名单及初试考核安排",
-      "checked": "2026-11-20T23:09:10+08:00",
-      "issue": null,
-      "source": "https://hr.ccnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
-      "title": "2026年福建师范大学高层次教学科研人员招聘方案 _ 高层次人才招聘方案 _ 省人社厅",
-      "checked": "2026-11-20T23:09:09+08:00",
-      "issue": null,
-      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/P020260309367611525276.docx",
-            "type": "docx",
-            "name": "（202601）福建师范大学教学科研岗位引进人才申报表.docx"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.fjnu.edu.cn/ef/1d/c9980a454429/page.htm",
-      "title": "福建师范大学实验幼儿园2026年秋季公开招聘劳务派遣工作人员方案",
-      "checked": "2026-11-20T23:09:11+08:00",
-      "issue": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc：该格式尚需人工读取",
-      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.fjnu.edu.cn/_upload/article/files/0a/93/74f575fb44548e06d652fb0ec044/7c920182-37b7-450d-84eb-cc2a9569dcba.doc",
-            "type": "doc",
-            "name": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc",
-            "error": "该格式尚需人工读取"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.nua.edu.cn/2026/0623/c4932a121824/page.htm",
-      "title": "南京艺术学院高层次人才引进和管理规定（修订）",
-      "checked": "2026-11-20T23:09:21+08:00",
-      "issue": "正文不完整或需要访问验证",
-      "source": "https://rsc.nua.edu.cn/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2025/art_c90115a14a1a4c089fce9d06db151f5b.html",
-      "title": "杭州师范大学2025年下半年（冬季）公开招聘教学科研人员公告",
-      "checked": "2026-11-20T23:09:27+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/art/2025/7/8/art_1229782005_4369344.html",
-      "title": "杭州师范大学2025年公开招聘实验技术人员公告",
-      "checked": "2026-11-20T23:09:33+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/art/2025/5/8/art_1229782005_4352169.html",
-      "title": "杭州师范大学2025年公开招聘工作人员公告",
-      "checked": "2026-11-20T23:09:39+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/art/2025/5/8/art_1229782005_4352167.html",
-      "title": "杭州师范大学2025年春季公开招聘教学科研人员公告",
-      "checked": "2026-11-20T23:09:46+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://www.ccom.edu.cn/info/5301/234951.htm",
-      "title": "中央音乐学院2024年度校园建设与管理处学生公寓宿舍管理岗位招聘公告",
-      "checked": "2026-11-20T23:13:15+08:00",
-      "issue": null,
-      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.tjcm.edu.cn/info/1266/1517.htm",
-      "title": "天津音乐学院2025年第一批公开招聘博士岗位工作人员方案-党委教师工作部",
-      "checked": "2026-11-20T23:13:30+08:00",
-      "issue": null,
-      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953767",
-            "type": "pdf",
-            "name": "天津音乐学院2025年第一批公开招聘博士岗位工作人员计划表.pdf"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://www.ccom.edu.cn/info/5301/233041.htm",
-      "title": "中央音乐学院2024年度校园建设与管理处岗位招聘公告",
-      "checked": "2026-11-20T23:13:17+08:00",
-      "issue": null,
-      "source": "https://www.ccom.edu.cn/jgk/dzgljg/rsc/zpxx.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.tjcm.edu.cn/info/1266/1520.htm",
-      "title": "天津音乐学院附属中等音乐学校2025年第一批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
-      "checked": "2026-11-20T23:13:22+08:00",
-      "issue": null,
-      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953812",
-            "type": "pdf",
-            "name": "天津音乐学院附属中等音乐学校2025年第一批公开招聘硕士及以上岗位工作人员计划表.pdf"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/art/2024/11/13/art_1229782005_4313238.html",
-      "title": "杭州师范大学2024年下半年公开招聘教学科研人员公告",
-      "checked": "2026-11-20T23:14:24+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
         "snapshot": true,
         "snapshot_verified": false
       }
@@ -1380,70 +896,6 @@
             "type": "doc",
             "name": "202205171856343921.doc",
             "error": "该格式尚需人工读取"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://hrss.hangzhou.gov.cn/art/2024/9/10/art_1229782005_4297785.html",
-      "title": "杭州师范大学2024年公开招聘专业技术人员公告",
-      "checked": "2026-11-20T23:14:32+08:00",
-      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "http://hrss.hangzhou.gov.cn/art/2024/5/20/art_1229782005_4268768.html",
-      "title": "杭州师范大学公开选聘工学院院长公告",
-      "checked": "2026-11-20T23:14:44+08:00",
-      "issue": "连接失败：ReadTimeout",
-      "source": "https://rsc.hznu.edu.cn/rczp/",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": false
-      }
-    },
-    {
-      "url": "https://rsc.tjcm.edu.cn/info/1266/1519.htm",
-      "title": "天津音乐学院2025年第二批公开招聘硕士及以上岗位工作人员方案-党委教师工作部",
-      "checked": "2026-11-20T23:13:26+08:00",
-      "issue": null,
-      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3953811",
-            "type": "pdf",
-            "name": "天津音乐学院2025年第二批公开招聘硕士及以上岗位工作人员计划表.pdf"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.tjcm.edu.cn/info/1266/1492.htm",
-      "title": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员方案-党委教师工作部",
-      "checked": "2026-11-20T23:13:34+08:00",
-      "issue": null,
-      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3952523",
-            "type": "pdf",
-            "name": "天津音乐学院附属中等音乐学校2024年第二批公开招聘硕士岗位工作人员计划表.pdf"
           }
         ],
         "snapshot": true,
@@ -1520,39 +972,6 @@
       }
     },
     {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1077.htm",
-      "title": "安徽师范大学校医院招聘启事-人力资源部",
-      "checked": "2026-11-20T23:13:41+08:00",
-      "issue": null,
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1075.htm",
-      "title": "安徽师范大学国际教育学院校内公开招聘外办秘书公告-人力资源部",
-      "checked": "2026-11-20T23:13:44+08:00",
-      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.ahnu.edu.cn/__local/B/CB/43/938141433F9A640B9659F5FAC1C_23CD054A_CA00.doc?e=.doc",
-            "type": "doc",
-            "name": "附件=>附件：安徽师范大学招聘工作人员报名表.doc",
-            "error": "该格式尚需人工读取"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
       "url": "https://rsc.gxau.edu.cn/bmgg/content_292841",
       "title": "关于公布我校2023年度第一批公开招聘非实名人员控制数工作人员4号书法教师岗位试讲成绩及进入面试人员名单的通知_部门公告_广西艺术学院人事处",
       "checked": "2026-11-20T23:13:55+08:00",
@@ -1566,58 +985,6 @@
             "type": "xlsx",
             "name": "附件1：广西艺术学院2023年度第一批公开招聘非实名人员控制数工作人员4号书法教师岗位6月4日面试安排表.xlsx",
             "error": "工作表超出大小限制"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.tjcm.edu.cn/info/1266/1480.htm",
-      "title": "天津音乐学院2024年第三批公开招聘硕士岗位工作人员方案-党委教师工作部",
-      "checked": "2026-11-20T23:13:41+08:00",
-      "issue": null,
-      "source": "https://rsc.tjcm.edu.cn/gkzp/zpfa.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.tjcm.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1696428841&wbfileid=3951700",
-            "type": "pdf",
-            "name": "天津音乐学院2024年第三批公开招聘硕士岗位工作人员计划表.pdf"
-          }
-        ],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1076.htm",
-      "title": "安徽师范大学园艺专业实训基地公开招聘工作人员公告-人力资源部",
-      "checked": "2026-11-20T23:13:42+08:00",
-      "issue": null,
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [],
-        "snapshot": true,
-        "snapshot_verified": true
-      }
-    },
-    {
-      "url": "https://rsc.ahnu.edu.cn/info/1039/1074.htm",
-      "title": "安徽师范大学外国语学院校内公开招聘工作人员公告-人力资源部",
-      "checked": "2026-11-20T23:13:45+08:00",
-      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
-      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
-      "digest": null,
-      "data": {
-        "attachments": [
-          {
-            "url": "https://rsc.ahnu.edu.cn/__local/B/CB/43/938141433F9A640B9659F5FAC1C_23CD054A_CA00.doc?e=.doc",
-            "type": "doc",
-            "name": "附件=>附件：安徽师范大学招聘工作人员报名表.doc",
-            "error": "该格式尚需人工读取"
           }
         ],
         "snapshot": true,
@@ -1710,6 +1077,680 @@
         "snapshot": true,
         "snapshot_verified": true
       }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2026/0715/c2860a296462/page.htm",
+      "title": "江西师范大学附属中学（高新校区）2026年教师公开招聘公告",
+      "checked": "2026-11-23T15:43:08+08:00",
+      "issue": "附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/78c5a747-01c1-489e-82cc-79c0440dfd32.docx",
+            "type": "docx",
+            "name": "附件1：江西师范大学附属中学（高新校区）2026年公开招聘教师岗位表.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/52c72bcc-b6b5-436d-9908-e24439dcd30b.docx",
+            "type": "docx",
+            "name": "附件2：江西师范大学附属中学（高新校区）2026年公开招聘教师报考指南.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/41234556-3ee1-4669-ba04-e11d68abfad8.docx",
+            "type": "docx",
+            "name": "附件3：江西师范大学附属中学（高新校区）应聘人员近亲属报告承诺书.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/73/52/30909f424b85bc52d05660ae3fe9/d887f348-c559-4e7d-9b69-ddaf50a73bde.pdf",
+            "type": "pdf",
+            "name": "附件4：学科专业目录汇编.pdf",
+            "error": "文件超出采集大小上限"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2026/0707/c2860a296213/page.htm",
+      "title": "江西师范大学及附属中学2026年公开招聘工作人员公告",
+      "checked": "2026-11-20T23:09:49+08:00",
+      "issue": "附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc：该格式尚需人工读取；附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc：该格式尚需人工读取；附件4：学科专业目录汇编.pdf：文件超出采集大小上限",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/50c35dcb-0f0c-4500-aab1-5c650f90b1a3.docx",
+            "type": "docx",
+            "name": "附件1：江西师范大学及附属中学2026年公开招聘工作人员岗位表.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/8a3e9612-4e37-439e-abf7-5b8ec7a759ba.doc",
+            "type": "doc",
+            "name": "附件2：江西师范大学及附属中学2026年公开招聘工作人员报考指南.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/2d960bfd-857c-4c1e-b026-b14e335de720.doc",
+            "type": "doc",
+            "name": "附件3：江西师范大学及附属中学应聘人员近亲属报告承诺书.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/26/21/daa0706541b2b98537eabf256b18/7927ddf1-a8e4-485c-abe5-c2bbdc3e5a59.pdf",
+            "type": "pdf",
+            "name": "附件4：学科专业目录汇编.pdf",
+            "error": "文件超出采集大小上限"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2026/0402/c2860a291570/page.htm",
+      "title": "江西师范大学流动化学与工程研究院高层次人才招聘公告",
+      "checked": "2026-11-20T23:09:51+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://www.jxnu.edu.cn/2026/0117/c13127a289644/page.htm",
+      "title": "江西师范大学2026年高层次人才招聘公告",
+      "checked": "2026-11-20T23:09:59+08:00",
+      "issue": null,
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/32b72d2c-b0cf-41c6-aaaa-bb4ff4969716.docx",
+            "type": "docx",
+            "name": "附件1.江西师范大学2026年高层次人才招聘岗位表.docx"
+          },
+          {
+            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/00bcbd8d-a14f-43fb-ac16-545582f6cf3f.docx",
+            "type": "docx",
+            "name": "附件2.江西师范大学高层次人才招聘报名表.docx"
+          },
+          {
+            "url": "https://www.jxnu.edu.cn/_upload/article/files/93/4f/d66e1e684623aa4112db5bd2b0d8/51bf09c8-c779-45aa-a777-7ff98c42e4bd.docx",
+            "type": "docx",
+            "name": "附件3.江西师范大学应聘人员近亲属报告承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.jxnu.edu.cn/2025/0802/c2860a276278/page.htm",
+      "title": "江西师范大学数字产业学院硕士师资公开招聘公告",
+      "checked": "2026-11-20T23:10:15+08:00",
+      "issue": "附件1：招聘岗位及条件.doc：该格式尚需人工读取；附件2：学科专业目录汇编.pdf：PDF 页数过多",
+      "source": "https://rsc.jxnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/9c1e2a09-d71e-465b-94ea-5543ac86654b.doc",
+            "type": "doc",
+            "name": "附件1：招聘岗位及条件.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/19345d4d-8b16-4a0c-a198-a4e3178213a0.pdf",
+            "type": "pdf",
+            "name": "附件2：学科专业目录汇编.pdf",
+            "error": "PDF 页数过多"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/edf084f6-706d-4fa5-a6a5-ddd1e5a87d12.docx",
+            "type": "docx",
+            "name": "附件3：《江西师范大学数字产业学院硕士师资岗位应聘报名表》.docx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/df58f24d-8e03-45d2-a0cb-2eacb99a5658.xlsx",
+            "type": "xlsx",
+            "name": "附件4：《江西师范大学数字产业学院硕士师资岗位应聘人员基本情况汇总表》.xlsx"
+          },
+          {
+            "url": "https://rsc.jxnu.edu.cn/_upload/article/files/97/22/3ee0fdc94e4ca58e33f42780769b/8d114f5d-9478-4fc9-b764-f18af1675f92.docx",
+            "type": "docx",
+            "name": "附件5：应聘人员近亲属报告承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/info/1004/5833.htm",
+      "title": "May 27 山东师范大学2026年公开招聘人员公告",
+      "checked": "2026-11-23T15:42:34+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.sdnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/info/1004/5773.htm",
+      "title": "Apr 22 山东师范大学附属小学2026年第二批公开招聘人员公告",
+      "checked": "2026-11-20T23:08:41+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.sdnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.sdnu.edu.cn/info/1004/5763.htm",
+      "title": "Apr 22 山东师范大学第二附属中学2026年第二批公开招聘人员公告",
+      "checked": "2026-11-20T23:08:43+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.sdnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/11708.htm",
+      "title": "陕西师范大学2027年心理健康教育教师招聘公告",
+      "checked": "2026-11-23T15:42:40+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/11048.htm",
+      "title": "附属小学2026年学科高层次人才岗位招聘公告",
+      "checked": "2026-11-20T23:08:45+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/10858.htm",
+      "title": "附属中学2026年学科竞赛人才计划岗位招聘公告",
+      "checked": "2026-11-20T23:08:46+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.snnu.edu.cn/info/1070/10728.htm",
+      "title": "附属中学2026年学科骨干人才计划岗位招聘公告",
+      "checked": "2026-11-20T23:08:47+08:00",
+      "issue": null,
+      "source": "https://rsc.snnu.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/4529.htm",
+      "title": "安徽师范大学2025年度“人事代理”岗位招聘公告-人力资源部",
+      "checked": "2026-11-23T15:42:45+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/2950.htm",
+      "title": "关于发布我校2022年人才招聘计划的公告-人力资源部",
+      "checked": "2026-11-20T23:08:49+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1080.htm",
+      "title": "安徽师范大学2013年诚聘优秀人才公告-人力资源部",
+      "checked": "2026-11-20T23:08:50+08:00",
+      "issue": "20130122154433_19147.zip：该格式尚需人工读取",
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.ahnu.edu.cn/__local/5/C4/A7/332F2C878FF9A3970E97672666E_FF63021C_829D.zip?e=.zip",
+            "type": "zip",
+            "name": "20130122154433_19147.zip",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1079.htm",
+      "title": "安徽师范大学附属幼儿园2012年招聘优秀教师公告-人力资源部",
+      "checked": "2026-11-20T23:08:52+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1078.htm",
+      "title": "安徽师范大学2012年毕业生招聘公示（第三批）-人力资源部",
+      "checked": "2026-11-20T23:08:54+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1077.htm",
+      "title": "安徽师范大学校医院招聘启事-人力资源部",
+      "checked": "2026-11-20T23:13:41+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1075.htm",
+      "title": "安徽师范大学国际教育学院校内公开招聘外办秘书公告-人力资源部",
+      "checked": "2026-11-20T23:13:44+08:00",
+      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.ahnu.edu.cn/__local/B/CB/43/938141433F9A640B9659F5FAC1C_23CD054A_CA00.doc?e=.doc",
+            "type": "doc",
+            "name": "附件=>附件：安徽师范大学招聘工作人员报名表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1076.htm",
+      "title": "安徽师范大学园艺专业实训基地公开招聘工作人员公告-人力资源部",
+      "checked": "2026-11-20T23:13:42+08:00",
+      "issue": null,
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.ahnu.edu.cn/info/1039/1074.htm",
+      "title": "安徽师范大学外国语学院校内公开招聘工作人员公告-人力资源部",
+      "checked": "2026-11-20T23:13:45+08:00",
+      "issue": "附件=>附件：安徽师范大学招聘工作人员报名表.doc：该格式尚需人工读取",
+      "source": "https://rsc.ahnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.ahnu.edu.cn/__local/B/CB/43/938141433F9A640B9659F5FAC1C_23CD054A_CA00.doc?e=.doc",
+            "type": "doc",
+            "name": "附件=>附件：安徽师范大学招聘工作人员报名表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1030/12556.htm",
+      "title": "未来科学与工程研究院校内公开招聘工作人员公告",
+      "checked": "2026-11-23T15:42:55+08:00",
+      "issue": "报名表.docx：链接返回网页，未取得附件文件",
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://hr.ccnu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1887159177&wbfileid=8347835ABC259671D807D34C728FFA65",
+            "type": "docx",
+            "name": "报名表.docx",
+            "error": "链接返回网页，未取得附件文件"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12196.htm",
+      "title": "华中师范大学2026年附小教师招聘参加笔试人员名单及后续考核安排",
+      "checked": "2026-11-20T23:09:06+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12186.htm",
+      "title": "华中师范大学2026年专业技术人员招聘参加笔试人员名单及后续考核安排",
+      "checked": "2026-11-20T23:09:07+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12176.htm",
+      "title": "华中师范大学2026年校医院内科医师招聘参加笔试人员名单及后续考核安排",
+      "checked": "2026-11-20T23:09:09+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hr.ccnu.edu.cn/info/1031/12126.htm",
+      "title": "华中师范大学2026年校医院招聘参加初试人员名单及初试考核安排",
+      "checked": "2026-11-20T23:09:10+08:00",
+      "issue": null,
+      "source": "https://hr.ccnu.edu.cn/rczp.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/t20261023_7239842.htm",
+      "title": "2026年秋季福建师范大学附属中学校园公开招聘教师方案 _ 招聘方案 _ 省人社厅",
+      "checked": "2026-11-20T23:09:16+08:00",
+      "issue": "附件1：福建师大附中招聘报名二维码.doc：该格式尚需人工读取；附件2：福建师大附中招聘登记表.doc：该格式尚需人工读取",
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564298961647.doc",
+            "type": "doc",
+            "name": "附件1：福建师大附中招聘报名二维码.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299291724.doc",
+            "type": "doc",
+            "name": "附件2：福建师大附中招聘登记表.doc",
+            "error": "该格式尚需人工读取"
+          },
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299594760.xls",
+            "type": "xls",
+            "name": "附件3 ：加分申请表.xls"
+          },
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/zpfa/202610/P020261023564299859554.docx",
+            "type": "docx",
+            "name": "附件4：诚信考试承诺书.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.fjnu.edu.cn/dd/a9/c9980a449961/page.htm",
+      "title": "福建师范大学离退休工作办公室2026年招聘校内退休人员方案",
+      "checked": "2026-11-20T23:09:25+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/t20260309_7107427.htm",
+      "title": "2026年福建师范大学高层次教学科研人员招聘方案 _ 高层次人才招聘方案 _ 省人社厅",
+      "checked": "2026-11-23T15:43:11+08:00",
+      "issue": null,
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "http://rst.fujian.gov.cn/zw/ztzl/zxzt/sydwrczp/gccrczpfa/202603/P020260309367611525276.docx",
+            "type": "docx",
+            "name": "（202601）福建师范大学教学科研岗位引进人才申报表.docx"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": true
+      }
+    },
+    {
+      "url": "https://rsc.fjnu.edu.cn/ef/1d/c9980a454429/page.htm",
+      "title": "福建师范大学实验幼儿园2026年秋季公开招聘劳务派遣工作人员方案",
+      "checked": "2026-11-20T23:09:11+08:00",
+      "issue": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc：该格式尚需人工读取",
+      "source": "https://rsc.fjnu.edu.cn/rczp/list.htm",
+      "digest": null,
+      "data": {
+        "attachments": [
+          {
+            "url": "https://rsc.fjnu.edu.cn/_upload/article/files/0a/93/74f575fb44548e06d652fb0ec044/7c920182-37b7-450d-84eb-cc2a9569dcba.doc",
+            "type": "doc",
+            "name": "福建师范大学实验幼儿园招聘劳务派遣人员报名登记表.doc",
+            "error": "该格式尚需人工读取"
+          }
+        ],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://rsc.nua.edu.cn/2026/0623/c4932a121824/page.htm",
+      "title": "南京艺术学院高层次人才引进和管理规定（修订）",
+      "checked": "2026-11-23T15:43:03+08:00",
+      "issue": "正文不完整或需要访问验证",
+      "source": "https://rsc.nua.edu.cn/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2026/art_68b057fefa714979b93546d1cdea64a3.html",
+      "title": "杭州师范大学2026年上半年公开招聘教学科研人员公告",
+      "checked": "2026-11-23T15:43:16+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2024/11/14/art_1229782005_4313743.html",
+      "title": "杭州师范大学2024年公开招聘心理咨询师公告",
+      "checked": "2026-11-20T23:14:15+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2025/art_c90115a14a1a4c089fce9d06db151f5b.html",
+      "title": "杭州师范大学2025年下半年（冬季）公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:09:27+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2025/7/8/art_1229782005_4369344.html",
+      "title": "杭州师范大学2025年公开招聘实验技术人员公告",
+      "checked": "2026-11-20T23:09:33+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2025/5/8/art_1229782005_4352169.html",
+      "title": "杭州师范大学2025年公开招聘工作人员公告",
+      "checked": "2026-11-20T23:09:39+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2025/5/8/art_1229782005_4352167.html",
+      "title": "杭州师范大学2025年春季公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:09:46+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2024/11/13/art_1229782005_4313238.html",
+      "title": "杭州师范大学2024年下半年公开招聘教学科研人员公告",
+      "checked": "2026-11-20T23:14:24+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "https://hrss.hangzhou.gov.cn/art/2024/9/10/art_1229782005_4297785.html",
+      "title": "杭州师范大学2024年公开招聘专业技术人员公告",
+      "checked": "2026-11-20T23:14:32+08:00",
+      "issue": "robots.txt 无法核实（HTTP 503），暂停访问",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
+    },
+    {
+      "url": "http://hrss.hangzhou.gov.cn/art/2024/5/20/art_1229782005_4268768.html",
+      "title": "杭州师范大学公开选聘工学院院长公告",
+      "checked": "2026-11-20T23:14:44+08:00",
+      "issue": "连接失败：ReadTimeout",
+      "source": "https://rsc.hznu.edu.cn/rczp/",
+      "digest": null,
+      "data": {
+        "attachments": [],
+        "snapshot": true,
+        "snapshot_verified": false
+      }
     }
   ],
   "jobs": [
@@ -1726,6 +1767,7 @@
         "starts": "2026-03-18T09:00",
         "deadline": "2026-03-25T09:00",
         "apply_url": "https://rsc.tjcm.edu.cn/gkzp/bmxt.htm",
+        "general": "1.具有中华人民共和国国籍；；5.全日制在读的非应届毕业生；",
         "code": "26002209",
         "department": "天津音乐学院附属中等音乐学校",
         "title": "视唱练耳教师",
@@ -1737,7 +1779,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:19+08:00",
-      "checked": "2026-11-20T23:08:19+08:00"
+      "checked": "2026-11-23T15:42:22+08:00"
     },
     {
       "identity": "912cc7cd278536ea2380d1392fc615f1421e5862dc76aa14f7f78cc09bce5378",
@@ -2127,7 +2169,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:31+08:00",
-      "checked": "2026-11-20T23:08:31+08:00"
+      "checked": "2026-11-23T15:42:27+08:00"
     },
     {
       "identity": "f279ce701b9db621e188fe30effbac02c5bd0a9d3cb844cd253e8d1e9cb88985",
@@ -2146,7 +2188,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:31+08:00",
-      "checked": "2026-11-20T23:08:31+08:00"
+      "checked": "2026-11-23T15:42:27+08:00"
     },
     {
       "identity": "40b047e3b27b07d2d6b10e2a46264349d73778842a84303d8b52ec24113d10f9",
@@ -2233,6 +2275,7 @@
         "published": "2026-09-18",
         "apply_url": "http://renshi.zjcm.edu.cn:8000",
         "employment": "事业单位报备员额内用人",
+        "general": "（2）大学各阶段学历学位证书（应届毕业生提供学校核发的就业推荐表或在读证明，留学人员还须提供教育部留学服务中心的《国外学历学位认证书》），其中应届毕业生和留学归国人员取得学历学位证书（含学历、学位认证书）的时限要求为2026年12月31日前；",
         "code": "A17-26-14",
         "department": "戏剧系",
         "title": "戏曲作曲专任教师",
@@ -2246,7 +2289,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:38+08:00",
-      "checked": "2026-11-20T23:08:38+08:00"
+      "checked": "2026-11-23T15:42:22+08:00"
     },
     {
       "identity": "127806a080dc7b4f4ad32b4da2fab7595156cb3b92daa550e0e136921bd1e6db",
@@ -2260,6 +2303,7 @@
         "published": "2026-09-18",
         "apply_url": "http://renshi.zjcm.edu.cn:8000",
         "employment": "事业单位报备员额内用人",
+        "general": "（2）大学各阶段学历学位证书（应届毕业生提供学校核发的就业推荐表或在读证明，留学人员还须提供教育部留学服务中心的《国外学历学位认证书》），其中应届毕业生和留学归国人员取得学历学位证书（含学历、学位认证书）的时限要求为2026年12月31日前；",
         "code": "A17-26-06",
         "department": "音乐工程系",
         "title": "音乐制作专任教师",
@@ -2272,7 +2316,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:38+08:00",
-      "checked": "2026-11-20T23:08:38+08:00"
+      "checked": "2026-11-23T15:42:22+08:00"
     },
     {
       "identity": "5cbe3465260f2de87f296ddf819c45fdbc9b431beb0287f0cb93f7c5ea9fde90",
@@ -2286,6 +2330,7 @@
         "published": "2026-09-18",
         "apply_url": "http://renshi.zjcm.edu.cn:8000",
         "employment": "事业单位报备员额内用人",
+        "general": "（2）大学各阶段学历学位证书（应届毕业生提供学校核发的就业推荐表或在读证明，留学人员还须提供教育部留学服务中心的《国外学历学位认证书》），其中应届毕业生和留学归国人员取得学历学位证书（含学历、学位认证书）的时限要求为2026年12月31日前；",
         "code": "A17-26-07",
         "department": "音乐工程系",
         "title": "艺术与科技专任教师",
@@ -2298,7 +2343,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:38+08:00",
-      "checked": "2026-11-20T23:08:38+08:00"
+      "checked": "2026-11-23T15:42:22+08:00"
     },
     {
       "identity": "7501d099c32898ff1282687e7a102c07a14a64e6e8f71be9c86d8aa7cb4346fc",
@@ -2312,6 +2357,7 @@
         "published": "2026-09-18",
         "apply_url": "http://renshi.zjcm.edu.cn:8000",
         "employment": "事业单位报备员额内用人",
+        "general": "（2）大学各阶段学历学位证书（应届毕业生提供学校核发的就业推荐表或在读证明，留学人员还须提供教育部留学服务中心的《国外学历学位认证书》），其中应届毕业生和留学归国人员取得学历学位证书（含学历、学位认证书）的时限要求为2026年12月31日前；",
         "code": "A17-26-08",
         "department": "艺术指导教学部",
         "title": "钢琴艺术指导 （管弦方向）",
@@ -2324,7 +2370,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:38+08:00",
-      "checked": "2026-11-20T23:08:38+08:00"
+      "checked": "2026-11-23T15:42:22+08:00"
     },
     {
       "identity": "c94968a866da154889f74edc6fbfdb92b445da0c28e3a94c7a8c7aced14053fb",
@@ -2347,7 +2393,7 @@
         "deadline": "2026-12-31",
         "early_close": true,
         "workload": null,
-        "issue": null,
+        "issue": "最近核验未取得正文",
         "official": true
       },
       "first_seen": "2026-11-20T23:08:43+08:00",
@@ -2363,6 +2409,7 @@
         "province": "福建",
         "school_type": "师范大学",
         "published": "2026-03-09",
+        "general": "1.具有中华人民共和国国籍，具备良好的思想政治素质，拥护中国共产党的领导，热爱党的教育事业，遵纪守法，诚实守信。",
         "title": "教学科研岗",
         "major": "表演艺术类【音乐学、声乐、舞蹈学（编导、表演、中国古典舞等方向）、戏剧与影视学（戏剧影视表演方向）、音乐表演（钢琴演奏、管弦方向）】、艺术设计类【艺术学、艺术学理论中音乐、舞蹈、戏曲等相关方向】等相关专业",
         "count": "10",
@@ -2371,7 +2418,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:09:09+08:00",
-      "checked": "2026-11-20T23:09:09+08:00"
+      "checked": "2026-11-23T15:43:11+08:00"
     },
     {
       "identity": "ffac391cef920681c33efa6f18a54e00b02e59b116e26877bb742cfc37312ab6",
@@ -2438,6 +2485,7 @@
         "published": "2026-09-18",
         "apply_url": "http://renshi.zjcm.edu.cn:8000",
         "employment": "事业单位报备员额内用人",
+        "general": "（2）大学各阶段学历学位证书（应届毕业生提供学校核发的就业推荐表或在读证明，留学人员还须提供教育部留学服务中心的《国外学历学位认证书》），其中应届毕业生和留学归国人员取得学历学位证书（含学历、学位认证书）的时限要求为2026年12月31日前；",
         "code": "A17-26-03",
         "department": "作曲与指挥系",
         "title": "电子音乐作曲专任教师",
@@ -2450,7 +2498,7 @@
         "official": true
       },
       "first_seen": "2026-11-20T23:08:38+08:00",
-      "checked": "2026-11-20T23:08:38+08:00"
+      "checked": "2026-11-23T15:42:22+08:00"
     },
     {
       "identity": "489cb15979fa91cd68a3986364588ee2ca849edd93eb83fd19c04216ad0a2b9e",

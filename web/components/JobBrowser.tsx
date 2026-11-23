@@ -15,6 +15,7 @@ export async function JobBrowser({
   for (const [k, v] of Object.entries(params))
     if (typeof v === "string" && v) p.set(k, v);
   if (saved) p.set("view", "saved");
+  else if (!p.has("category")) p.set("category", "secondary");
   const d = await read<Results>("/jobs?" + p);
   const page = saved ? "/saved" : "/jobs";
   function link(k: string, v: string) {
@@ -46,9 +47,24 @@ export async function JobBrowser({
         note={
           saved
             ? "跟进已收藏的职位与个人申请进度"
-            : "按地区、学段、专业和报名条件查找教职机会"
+            : "优先查看初中、高中和国际学校音乐教师岗位"
         }
       />
+      {!saved && (
+        <div className="tabs" aria-label="岗位类别">
+          {[
+            ["secondary", "中学与国际学校"],
+            ["university", "高校与音乐学院"],
+            ["primary", "小学与幼教"],
+            ["other", "其他 / 学段待核实"],
+            ["all", "全部"],
+          ].map(([value, label]) => (
+            <Link key={value} href={link("category", value)} className={p.get("category") === value ? "selected" : ""}>
+              {label}
+            </Link>
+          ))}
+        </div>
+      )}
       {!saved && (
         <div className="tabs">
           {[
@@ -83,6 +99,7 @@ export async function JobBrowser({
             重置
           </Link>
         </div>
+        {!saved && <input type="hidden" name="category" value={p.get("category") || "secondary"} />}
         {p.has("view") && (
           <input type="hidden" name="view" value={p.get("view")!} />
         )}
@@ -180,7 +197,7 @@ export async function JobBrowser({
             text={
               saved
                 ? "还没有符合条件的收藏或申请记录"
-                : "没有符合当前筛选条件的职位"
+                : "这个类别暂时没有符合条件的职位，可选择其他类别"
             }
             href="/jobs"
           />

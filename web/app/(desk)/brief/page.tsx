@@ -16,7 +16,7 @@ export default async function Page() {
       <Title title="每日招聘简报" note={b.date + " · 北京时间"} />
       <div className="brief-banner">
         <CalendarDays />
-        <strong>今日招聘动态</strong>
+        <strong>中学与国际学校招聘动态</strong>
         <span>
           <Mail size={15} />
           {b.delivery || (b.email_configured ? "邮件已配置" : "邮件尚未配置")}

@@ -5,6 +5,7 @@ from datetime import datetime, time
 
 from pathlib import Path
 from .settings import ROOT, DATA, TZ, now
+from .categories import SECONDARY, job_category
 
 PRIVATE_PROFILE = Path(os.getenv("RADAR_PROFILE_FILE") or DATA / "profile.json")
 PROFILE = json.loads(
@@ -19,7 +20,7 @@ DOMAINS = {
     "音乐理论": r"音乐理论|音乐基础理论|乐理|视唱|练耳|和声|复调|曲式|作品分析|作曲技术理论|solf[eè]ge|ear training|harmony",
     "钢琴伴奏": r"艺术指导|钢琴合作|钢琴协作|钢琴伴奏|合作钢琴|collaborative piano|accompanist",
     "钢琴": r"钢琴|piano|键盘演奏",
-    "音乐教学": r"音乐教育|音乐学科|音乐教[学师]|学科教学[（(]?音乐|中学音乐|高中音乐|初中音乐|小学音乐|中小学音乐|音乐课|music education",
+    "音乐教学": r"音乐教育|音乐学科|音乐教[学师]|学科教学[（(]?音乐|中学音乐|高中音乐|初中音乐|小学音乐|中小学音乐|音乐课|music education|music teacher|teacher of music|music educator|music instructor",
     "音乐科技": r"电子音乐|数字音乐|音乐科技|音乐制作|录音艺术|计算机音乐|音乐人工智能|人工智能音乐|AI\s*作曲|AIGC\s*音乐",
     "音乐学": r"音乐学(?!院|校|科)|音乐史|民族音乐|音乐研究",
 }
@@ -64,6 +65,12 @@ def analyze(job, profile=None):
     if re.search(r"算法|机器学习|编程|Python|C\+\+", title + " " + hard, re.I):
         checks.append("需要核实算法或编程能力，作曲和音乐 AI 经历不能替代技术要求")
         score = min(score, 65)
+    if re.search(
+        r"中英|英语|english", str(profile.get("language") or ""), re.I
+    ) and re.search(
+        r"双语|英文授课|英语授课|bilingual|english", hard + " " + title, re.I
+    ):
+        reasons.append("有中英双语授课基础，课程术语和国际课程经验需逐项核实")
     degree = job.get("degree") or ""
     highest = profile.get("highest_degree", "")
     if "博士" in degree and highest != "博士":
@@ -77,6 +84,10 @@ def analyze(job, profile=None):
             )
     if not degree:
         checks.append("未提取到明确的最低学位，需核对原公告和岗位表")
+    if job.get("certificate") and any(
+        "教师资格" in value for value in profile.get("certificates", [])
+    ):
+        checks.append("已提供教师资格证信息，需核对学段、学科及公告的其他要求")
     if job.get("certificate") or job.get("rank"):
         checks.append(
             "核实所需教师资格或职称："
@@ -106,7 +117,8 @@ def analyze(job, profile=None):
         "checks": barriers + checks,
         "directions": tags,
         "method": "规则匹配",
-        "priority": job.get("stage") != "小学",
+        "category": job_category(job),
+        "priority": job_category(job) == SECONDARY,
     }
 
 

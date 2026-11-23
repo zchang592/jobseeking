@@ -5,6 +5,7 @@ from sqlalchemy import select
 from .analysis import analyze, local_dt, recommended, status
 from .db import Evidence, Job, Notice, Run, Source
 from .settings import now
+from .categories import SECONDARY
 
 FLAGS = ("未标记", "准备申请", "已申请", "面试中", "已结束", "忽略")
 
@@ -51,8 +52,17 @@ def until(job):
 
 def filter_jobs(rows, p):
     rows = list(rows)
-    for key in ("school", "city", "stage", "status", "eligibility", "flag", "province"):
-        if p.get(key):
+    for key in (
+        "school",
+        "city",
+        "stage",
+        "status",
+        "eligibility",
+        "flag",
+        "province",
+        "category",
+    ):
+        if p.get(key) and not (key == "category" and p[key] == "all"):
             rows = [j for j in rows if j.get(key) == p[key]]
     if p.get("q"):
         q = p["q"].strip().casefold()
@@ -160,7 +170,7 @@ def run_view(r):
 
 
 def overview(db):
-    rows = all_jobs(db)
+    rows = [row for row in all_jobs(db) if row["category"] == SECONDARY]
     found = filter_jobs(rows, {"view": "new"})
     soon = filter_jobs(rows, {"view": "soon", "sort": "deadline"})
     high = filter_jobs(rows, {"view": "recommended"})
@@ -168,7 +178,7 @@ def overview(db):
     srcs = list(db.scalars(select(Source).where(Source.removed.is_(False))))
     return {
         "date": now().date().isoformat(),
-        "total": len(rows),
+        "total": len(all_jobs(db)),
         "new": len(found),
         "open": active,
         "high": len(high),
@@ -185,7 +195,7 @@ def overview(db):
 
 
 def brief(db):
-    rows = all_jobs(db)
+    rows = [row for row in all_jobs(db) if row["category"] == SECONDARY]
     return {
         "date": now().date().isoformat(),
         "new": filter_jobs(rows, {"view": "new"}),

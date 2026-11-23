@@ -35,8 +35,8 @@ jobs:
         uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: .pages-state/verified.json
-          key: radar-public-v1-${{ github.run_id }}-${{ github.run_attempt }}
-          restore-keys: radar-public-v1-
+          key: radar-public-v2-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: radar-public-v2-
       - name: Select verified snapshot
         run: |
           mkdir -p .pages-state
@@ -60,7 +60,7 @@ jobs:
         uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: .pages-state/verified.json
-          key: radar-public-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          key: radar-public-v2-${{ github.run_id }}-${{ github.run_attempt }}
       - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
         with:
           path: .pages-dist
